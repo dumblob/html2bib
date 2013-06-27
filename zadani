@@ -1,0 +1,18 @@
+Ve zvoleném skriptovacím jazyce implementujte program pro převod stránek obsahujících přehled publikací do formátu BibTeXML.
+Bude hodnocena zejména robustnost řešení.
+
+Jako příklad různých formátů stránek můžete sloužit následující seznam:
+
+# davno nefunguje http://www.bme.ogi.edu/~hynek/cgi-bin/publications/showbib_asp.pl?all
+http://www.fit.vutbr.cz/~zendulka/pubs.php.en
+http://tony.abou-assaleh.net/Publications
+http://www-personal.umich.edu/~ladamic/
+http://www.cond.org/
+http://www.dfki.de/~janal/
+http://www-scf.usc.edu/~alcazar/#_List_of_publications
+http://ixa.si.ehu.es/Ixa/Argitalpenak/kidearen_argitalpenak?kidea=1000808989
+http://www.dfki.de/~janal/publications.html
+http://www.cs.rochester.edu/u/james/
+http://www.dc.fi.udc.es/~alonso/papers.html
+
+vim: set wrap:

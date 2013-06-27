@@ -1,0 +1,958 @@
+/* Copyright (C) 2010 FIT VUT v Brne
+   Radek Burget <burgetr@fit.vutbr.cz>
+   $Id$
+*/ 
+/* main css */
+body {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	background-color: white;
+	color: black;
+	font-family: Verdana, Tahoma, sans-serif;
+	font-size: 12px;
+}
+
+a, a:link, a:hover, a:active {
+	color: #0082c5;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #006986;
+	text-decoration: underline;
+}
+
+.hidden {
+	position: absolute;
+	top: -10000px;
+	left: -10000px;
+	width: 0;
+	height: 0;
+	display: none;
+	overflow: hidden;
+}
+
+table { 
+	border-collapse: collapse; 
+	margin-top: 0; 
+	margin-bottom: 0;  
+	border-spacing: 0;
+}
+
+#page {
+	position: relative;
+	margin: auto;
+	max-width: 1100px;
+	_width: expression(document.body.clientWidth>1100?'1100px':'auto');
+}
+
+#page .container {
+	overflow: hidden;
+}
+
+#header {
+	position: relative;
+	height: 150px;
+	background: url('http://www.fit.vutbr.cz/common/style/images/panoramas.jpg') white 244px center no-repeat;
+}
+
+#header div {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 150px;
+}
+
+#header .main {
+	width: 370px;     /* 244 start + 14 margin + 14 sirka */
+	height: 124px;    /* 150 header - 26 paddingtop */
+	margin: 0 14px;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	padding-top: 26px; /* (150 header - 100 logo) / 2 */
+	background: white url('http://www.fit.vutbr.cz/common/style/images/pan_left.jpg')  100% 50% no-repeat;
+}
+
+#header .main span {
+	display: none;
+}
+
+#header .main img {
+	border: none;
+	margin-left: 15px;
+}
+
+#header .left {
+	width: 14px;
+	left: 0;
+	right: auto;
+	background: white url('hdr_left.png') bottom left no-repeat;
+}
+
+#header .right {
+	width: 14px;
+	right: 0;
+	left: auto;
+	background: url('hdr_righ.png') bottom right no-repeat;
+}
+
+#menuline {
+	position: relative;
+	height: 28px;
+	line-height: 23px;
+	z-index: 10; /* zvednout nad menu */
+}
+
+#menuline div {
+	top: 0;
+	position: absolute;
+	width: 100%;
+	height: 28px;
+}
+
+#menuline .main {
+	margin: 0 14px;
+	padding-left: 231px;   /* 245 menu - 14 margin */
+	padding-right: 36px;  /* = sirka praveho sloupce */
+	left: 0;
+	right: 0;
+	width: auto;
+	background: url('hdr_bott.png') bottom left repeat-x;
+}
+
+#menuline .left {
+	width: 14px;
+	left: 0;
+	right: auto;
+	background: url('hdr_botu.png') bottom left no-repeat;
+}
+
+#menuline .right {
+	width: 14px;
+	right: 0;
+	left: auto;
+	background: url('hdr_botv.png') bottom right no-repeat;
+}
+
+#menuline ul {
+	margin: 2px 0;
+	padding: 0 0 0 231px; /* 245 menu - 14 margin = 231 */
+	margin: 0;
+	padding: 0;
+	color: white;
+	text-transform: lowercase;
+	overflow: hidden;
+	background: #4D4948 url('hdr_bott.png') top left repeat-x;
+}
+
+#menuline li {
+	float: left;
+	margin: 2px 0;
+	list-style-type: none;
+	border-right: 2px solid #aaa;
+	white-space: nowrap;
+}
+
+#menuline li:first-child {
+	border-left: 2px solid #aaa;
+}
+
+#menuline a, #menuline a:link, #menuline a:visited {
+	display: block;
+	padding: 0 8px;
+	color: white;
+	text-decoration: none;
+}
+
+#menuline a:hover, #menuline a:active {
+	background: #0082c5;
+	color: white;
+	text-decoration: underline;
+}
+#menuline a.selected {
+	background: #0082c5;
+}
+
+#tabs {
+	position: absolute;
+	top: 130px; /* 150 (vyska #header) - 20 (vyska #tabs) */
+	left: 0px;
+	overflow: hidden;
+}
+
+#tabs ul {
+	margin: 0;
+	padding: 0 0 0 245px; /* 245 sirka menu */
+}
+
+#tabs li {
+	float: left;
+	margin: 0 0.1em 0 0;
+	padding: 2px 5px;
+	width: 90px;
+	height: 16px;
+	background: url('tab_blue.png') top left no-repeat;
+	list-style: none;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+#tabs li.selected {
+	background: url('tab_gray.png') top left no-repeat; 
+}
+
+#tabs a {
+	display: block;
+	text-align: center;
+}
+
+#tabs a, #tabs a:link, #tabs a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+#tabs a:hover, #tabs a:active {
+	color: white;
+	text-decoration: none;
+}
+
+#toolbox {
+	position: absolute;
+	top: 28px;
+	right: 15px;
+	width: 175px;
+	height: 28px;
+	background: url('toolbox0.png') top left repeat-x;
+	overflow: visible;
+	font-size: 8px;
+	white-space: nowrap;
+	z-index: 20;
+}
+
+#toolbox p {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+#toolbox a {
+	float: left;
+	margin: 5px 0 0 5px;
+}
+
+#toolbox a span {
+	display: none;
+}
+
+#toolbox a.lang {
+	margin-left: 10px;
+	margin-top: 6px;
+	width: 18px;
+	height: 12px;
+	background: url('flag_dua.png') top left no-repeat;
+}
+
+#toolbox a.encoding {
+	width: 15px;
+	height: 15px;
+	background: url('globus00.png') top left no-repeat;
+}
+
+#toolbox form {
+	float: right;
+	margin: 0 5px;
+	height: 20px;
+}
+
+#toolbox label {
+	display: none;
+}
+
+#toolbox input {
+	float: left;
+	margin: 3px 0 0 0;
+	padding: 1px;
+	border-radius: 4px 4px 4px 4px;
+	border: 1px solid #808080;
+}
+
+#toolbox #search {
+	width: 92px;
+	height: 15px;
+}
+
+#toolbox input.submit {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	height: 15px;
+	border: none;
+}
+
+#menu {
+	float: left;
+	position: relative;
+	top: -8px;
+	width: 245px;
+	min-height: 600px;
+	background: url('menu_bac.jpg') top left no-repeat;
+	overflow: hidden;
+}
+
+#menu .col {
+	float: left;
+	margin-left: 34px; /* (245 - 176) / 2 */
+	width: 176px;
+	padding-top: 11px;
+	padding-bottom: 10em; /* prostor pro text dole */
+}
+
+#menu ul {
+	padding: 0;
+	margin: 0;
+	color: black;
+}
+
+#menu li {
+	margin: 0 0 0.2em 0;
+	padding: 0 0 0 0;
+	list-style-type: none;
+	background: url('menuitem.png') top left no-repeat;
+	text-transform: lowercase;
+	text-align: center;
+	line-height: 1;
+}
+
+#menu li a {
+	display: block;
+	padding: 3px 0.5em 6px 0;
+	background: url('menuiten.png') bottom left no-repeat;
+}
+
+#menu a, #menu a:link, #menu a:visited, #menu a:hover, #menu a:active {
+	color: white;
+	text-decoration: none;
+}
+
+#menu span {
+	display: block;
+	background: #606265 url('menuiteo.png') top left no-repeat;
+	padding: 0 0.5em 0 0.5em;
+}
+
+#menu em {
+	display: block;
+	font-style: normal;
+	background: url('menu_arr.png') center right no-repeat;
+}
+
+#menu li.selected {
+	background: url('menuitep.png') top left no-repeat;
+}
+
+#menu li.selected a {
+	background: url('menuiteq.png') bottom left no-repeat;
+}
+
+#menu li.selected span {
+	background: #1790c8 url('menuiter.png') top left no-repeat;
+}
+
+/* menu druhe urovne */
+#menu li ul {
+	margin: 2px 18px 0 20px;
+	padding: 10px 0 2px 0;
+	background: #0082c5;
+	font-size: 95%;
+	position: relative;
+}
+
+#menu li .bottom {
+	width: auto;
+	height: 10px;
+	margin: 0 18px 5px 20px;
+	background: url('submenu_.png') center bottom no-repeat;
+}
+
+#menu li ul li {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	background: transparent;
+	line-height: 1;
+}
+
+#menu li ul li.text {
+	padding: 0.4em 1em;
+}
+
+#menu li ul a {
+	padding: 0.4em 1em;
+	margin: 0;
+}
+
+#menu li ul li.text a {
+	padding: 0;
+	display: inline;
+}
+
+#menu li ul a, #menu li.selected ul a {
+	background: transparent;
+}
+
+#menu li ul span {
+	padding: 0;
+}
+
+#menu li ul span, #menu li.selected ul span {
+	background: transparent;
+}
+
+#menu li ul em {
+        display: inline;
+	padding: 0;
+	background: transparent;
+}
+
+#menu li ul li.selected {
+	background: #4d4948;
+}
+
+#menu li ul li.selected a {
+	background: transparent;
+}
+
+#menu li ul li.selected span {
+	background: transparent;
+}
+
+/* menu treti urovne */
+#menu li ul ul {
+	margin: 0;
+	padding: 0 0 0 2em;
+	font-size: 100%;
+	background: #0082c5;
+	border-bottom: 0.4em solid #0082c5;
+}
+
+#menu li ul ul li {
+	padding: 0.3em 0;
+	color: white;
+	list-style-type: disc;
+	margin-left: 1em;
+}
+
+#menu li ul ul li.selected {
+	background: transparent;
+	color: #bbb;
+}
+
+#menu li ul ul a {
+	padding: 0 0.5em 0 0;
+}
+
+#menu li ul ul li.selected > a, #menu li ul ul li.selected > a:link, #menu li ul ul li.selected > a:visited, #menu li ul ul li.selected > a:hover, #menu li ul ul li.selected > a:active {
+	color: #bbb;
+}
+
+/* pripadny text pod menu */
+#menu p {
+	color: white;
+	font-size: 80%;
+	padding: 0 1em;
+}
+
+#aktual {
+	float: right;
+	width: 183px;
+	padding: 0 15px;
+	position: relative;
+	top: -1px;
+	color: white;
+	min-height: 47em;
+	z-index: 20;
+}
+
+#aktual .top, #aktual .main, #aktual .bottom {
+	position: absolute;
+	margin: 0;
+	left: 15px;
+	right: 15px;
+}
+
+#aktual .top {
+	height: 16px;
+	top: 0;
+	background: url('http://www.fit.vutbr.cz/common/style/images/aktual_top2.png') left top no-repeat white;
+}
+
+#aktual .main {
+	margin: 0;
+	top: 16px;
+	bottom: 6px;
+	padding: 1px 5px;
+/*	background: url('images/aktual_back.png') -15px 0 repeat-y; */
+	font-size: 90%;
+	text-align: center;
+}
+
+#aktual .bottom {
+	bottom: 0;
+	text-align: center;
+}
+
+
+#aktual h1 {
+	padding: 0;
+	margin: 0 0 2em 0; 
+	font-size: 120%;
+	font-weight: normal;
+	text-transform: uppercase;
+	text-align: center;
+	color: white;
+}
+
+#aktual h2 {
+	font-size: 120%;
+	font-weight: normal;
+	color: white;
+}
+
+#aktual h2 .date {
+	display: block;
+}
+
+#aktual a {
+	color: white;
+}
+
+#aktual a:link, #aktual a:visited {
+	text-decoration: none;
+}
+
+#aktual #aktual a:hover, #aktual a:active {
+	text-decoration: underline;
+}
+
+#aktual dl {
+	margin: 2em 5px;
+	padding: 0;
+	text-align: left;
+}
+
+#aktual dt, #aktual dd {
+	margin: 0;
+	padding: 0;
+}
+
+#aktual dt {
+	font-weight: bold;
+}
+
+#aktual .grey {
+	color: #ccc;
+	font-size: 100%;
+}
+
+#main, #footer { /* default hodnoty pro siroky obsah, zuzuje se pro nabidku a aktuality */
+	margin: 0 55px 0 55px;
+}
+
+#main {
+	padding-bottom: 6em;
+	/*overflow: hidden;*/
+}
+
+#main .content {
+	padding: 0 1em 1em 1.5em;
+	min-height: 550px;
+	/*float: left;*/
+}
+
+#contenttable, .tfixed {
+	width: 100%;
+	table-layout: fixed;
+}
+
+#undercol {
+	position: absolute;
+	width: 176px;
+	left: 0;
+	bottom: 0;
+	z-index: 30;
+	padding: 0 35px 20px 34px;
+	background: url('menu_str.png') bottom left no-repeat;
+}
+
+#undercol p {
+	color: white;
+	font-size: 80%;
+	padding: 0 1em;
+}
+
+#undercol a, #undercol a:link, #undercol a:visited, #undercol a:hover, #undercol a:active {
+	color: white;
+	text-decoration: none;
+}
+
+#footer {
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	max-height: 5em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#footer address {
+	font-size: 90%;
+	font-style: normal;
+}
+
+#copy {
+	display: none;
+}
+
+/* front page */
+#page.front {
+	background: white url('menu_bac.png') left top repeat-y;
+	min-width: 970px;
+	background-color: white;
+}
+
+#page.front .container {
+	background: url('http://www.fit.vutbr.cz/common/style/images/aktual_back.png') right top repeat-y;
+}
+
+#page.front #main, #page.front #footer { 
+	margin-left: 245px;
+	margin-right: 213px; /* 183 + 2x15 */
+}
+
+#page.front #menuline .main { /* totez pro vodorovnou nabidku */
+	padding-right: 20px; /* 190px; */
+}
+
+#page.front #copy {
+	display: block;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	font-size: 50%;
+	height: 60px;
+	width: 213px;
+	background: url('http://www.fit.vutbr.cz/common/style/images/aktual_strip_bottom.png') bottom right no-repeat;
+}
+
+#page.front #copy a {
+	display: block;
+	height: 47px;
+	line-height: 47px;
+	position: absolute;
+	top: -8px;
+	right: 30px;
+	width: 35px;
+	background: url('http://www.fit.vutbr.cz/common/style/images/purus.png') top left no-repeat;
+}
+
+/* standard page */
+#page.inner {
+	background: white url('menu_bac.png') top left repeat-y;
+	min-width: 840px;
+	background-color: white;
+}
+
+#page.inner .container {
+	background: url('right_st.png') top right repeat-y;
+}
+
+#page.inner #main, #page.inner #footer {
+	margin-left: 245px; 
+}
+
+/* without navigation */
+#page.deep {
+	background: white url('left_str.png') top left repeat-y;
+	min-width: 840px;
+	background-color: white;
+}
+
+#page.deep .container {
+	background: url('right_st.png') top right repeat-y;
+}
+
+#page.deep #menuline .main {
+	padding-left: 50px; 
+}
+
+#page.deep #tabs ul {
+	padding-left: 94px; 
+}
+
+/* low header */
+#page.lowhead #header {
+	background: white url('ninsigni.jpg') 90px 0px no-repeat;
+	height: 56px;
+}
+
+#page.lowhead.en #header {
+	background: white url('ninsignj.jpg') 90px 0px no-repeat;
+}
+
+#page.lowhead #header div {
+	height: 56px;
+}
+
+#page.lowhead #header .main {
+	padding-top: 8px; 
+	height: 48px;
+	background: transparent; 
+}
+
+#page.lowhead #toolbox {
+	top: 8px;
+}
+
+#page.lowhead #tabs {
+	top: 36px; /* 56 header - 20 tab height */
+}
+
+/* Drobeèková navigace - crumb */
+#page.crumb #menuline li {
+	border: none;
+	padding: 0;
+	padding-right: 10px;
+	margin-right: 1em;
+	background: url('menu_arr.png') center right no-repeat;
+	color: #eee;
+}
+
+#page.crumb #menuline li.last {
+	padding-right: 0;
+	background: transparent;
+}
+
+/* Jazyk (en) */
+#page.en #toolbox a.lang {
+	background: url('flag_cz_.png') top left no-repeat;
+}
+
+/* Styl rùzných prvkù obsahu */
+h1, h2, h3 {
+	color: #0082c5;
+	font-weight: normal;
+	clear: both;
+}
+
+h1 {
+	margin: 1.2em 0 0.5em 0;
+	padding: 0;
+	font-size: 180%;
+}
+
+h2 {
+	margin: 1em 0 0.3em 0;
+	padding: 0;
+	font-size: 140%;
+}
+
+h3 {
+	margin: 0.5em 0 0.3em 0;
+	padding: 0;
+	font-size: 120%;
+}
+
+/* Obecný styl obsahu */
+#main #contenttable img {
+	max-width: 670px !important; /* zakaz prilis sirokych obrazku */
+}
+
+#main #contenttable img.noscale {
+	max-width: none !important; /* moznost vyjimky z omezeni */
+}
+
+#main ul, #main dl {
+	margin: 1em;
+	padding: 0 0 0 10px;
+}
+
+#main ul li, #main ol li {
+	margin: 0.4em 0;
+	padding: 0;
+}
+
+#main dl dt, #main dl dd {
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+}
+
+#main ul li {
+	list-style: url('http://www.fit.vutbr.cz/common/style/images/bullet.png');
+}
+
+#main ul ul {
+	margin: 0 1em;
+}
+
+table.default {
+	border: 2px solid #0083C5;
+}
+
+table.default thead th, table.default th.head {
+	background-color: #0083C5;
+	color: white;
+}
+
+table.default tr {
+	background-color: #e5f4fa;
+}
+
+table.default tr.odd {
+	background-color: #dededd;
+}
+
+table.default td, table.default th {
+	border: 1px solid white;
+	padding: 4px;
+	vertical-align: top;
+}
+
+table .left {
+	text-align: left;
+}
+
+table .right {
+	text-align: right;
+}
+
+table .center {
+	text-align: center;
+}
+
+/* wis */
+form {
+	display: inline;
+}
+#main .notop, #main .notop li {
+	margin-top: 0;
+}
+#main .nomargin {
+	margin-top: 0; margin-bottom: 0;
+}
+div.par { 
+	/* font-size: 12px; */
+	margin-top: 0; 
+	margin-bottom: 0; 
+}
+p.indent { 
+	margin-left: 6mm; 
+	/* font-size: 12px;  */
+}
+input,textarea,select {
+	/* font-size : 12px; */
+	padding: 1px;
+	margin: 0px;
+}
+input.readonly {
+	background-color : #e0e0e0;
+	border: gray 1px solid;
+}
+textarea.readonly {
+	background : #e0e0e0;
+	border: gray 1px solid;
+}
+input.forminput,textarea.forminput {
+	border: gray 1px solid;
+}
+select.formselect {
+	font-size : 11px;
+	padding: 1px;
+	margin: 0px;
+	border: gray 1px solid;
+}
+.nopad { margin: 0; padding: 0 }
+
+/* home page */
+#main .photo {
+	float: left;
+	margin-bottom: 1em;
+}
+
+#main .imgside { /* obsah na strane od obrazku */
+	margin-left: 120px;
+}
+
+#main .photo img {
+	border: 3px solid #0082c5;
+}
+
+#main dl.kontakt {
+	line-height: 1.5em;
+}
+
+#main .kontakt dt {
+	background: url('http://www.fit.vutbr.cz/common/style/images/bullet.png') center left no-repeat;
+	padding-left: 1em;
+	width: 9em;
+	float: left;
+	margin: 0;
+}
+
+#main .kontakt dd {
+	margin: 0 0 0 10em;
+}
+
+body {
+	background-color: #888;
+}
+
+#page {
+}
+
+#main, #footer {
+	background-color: white;
+}
+
+/* pro zvyrazneni */
+.red {
+	color: red;
+}
+
+/* pro uredni desku */
+.grey {
+	color: #a0a0a0;
+	font-size: 80%;
+}
+/* pro firefox staci border, ale IE vyzaduje height+color */
+hr {
+	color: #0063a5;
+	border: 0 none;
+	border-top: 1px solid #0063a5;
+	height: 1px;
+}
+/* obrazkove linky bez zvyrazneni */
+a img {
+	border: 0;
+}
+/* slideshow */
+#nav a {
+	color: white;
+	font-size: 140%;
+	width: 20px;
+	text-align: center;
+	height: 22px;
+	background-color: #0082c5;
+	text-decoration: none;
+	margin: 0 2px;
+	display: block;
+	float: left;
+	border-radius: 4px 4px 4px 4px;
+}
+#nav .activeSlide {
+	background-color: #4a4645;
+}

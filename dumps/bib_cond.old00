@@ -1,0 +1,162 @@
+@MISC { benevolent-deception,
+  author = {Eytan Adar and Desney Tan and Jaime Teevan},
+  title = {Benevolent Deception in Human Computer Interaction},
+  year = {2013},
+  note = {to appear, CHI}
+}
+@MISC { contextifier--automa,
+  author = {Jessica Hullman and Nicholas Diakopoulos and Eytan Adar},
+  title = {Contextifier: Automatic Generation of Annotated Stock Visualizations},
+  year = {2013},
+  note = {to appear, CHI}
+}
+@MISC { pixeltone--a-multimo,
+  author = {Gierad Laput and Mira Dontcheva and Gregg Wilensky and Walter Chang and Aseem Agarwala and Jason Linder and Eytan Adar},
+  title = {PixelTone: A Multimodal Interface for Image Editing},
+  year = {2013},
+  note = {to appear, CHI}
+}
+@MISC { predicting-citation-,
+  author = {Avishay Livne and Eytan Adar and Jaime Teevan and Susan Dumais},
+  title = {Predicting Citation Counts Using Text and Graph Mining},
+  year = {2013},
+  note = {to appear, iConference  Workshop on Computational Scientometrics: Theory and Applications}
+}
+@MISC { tutorial-based-inter,
+  author = {Gierad Laput and Eytan Adar and Mira Dontcheva and Wilmot Li},
+  title = {Tutorial-based Interfaces for Cloud-enabled Applications},
+  year = {2012},
+  note = {UIST}
+}
+@MISC { personalized-online-,
+  author = {Daniel S. Weld and Eytan Adar and Lydia Chilton and Raphael Hoffmann and Eric Horvitz and Mitchell Koch and James Landay and Christopher H. Lin and Mausam},
+  title = {Personalized Online Education—A Crowdsourcing Challenge},
+  year = {2012},
+  note = {HCOMP '12, Toronto, Canada, July 23}
+}
+@MISC { the-pviz-comprehensi,
+  author = {Alessandra Mazzia and Kristen LeFevre and Eytan Adar},
+  title = {The PViz Comprehension Tool for Social Network Privacy Settings},
+  year = {2012},
+  note = {SOUPS'12, Washington DC, July 11-13}
+}
+@MISC { searching-for-statis,
+  author = {Shirley Zhe Chen and Michael J. Cafarella and Eytan Adar},
+  title = {Searching for Statistical Diagrams},
+  year = {2012},
+  note = {Frontiers of Engineering, National Academy of Engineering, Washington DC}
+}
+@MISC { benefiting-infovis-w,
+  author = {Jessica Hullman and Eytan Adar and Priti Shah},
+  title = {Benefiting InfoVis with Visual Difficulties},
+  year = {2011},
+  note = {InfoVis'11, Providence, RI, Oct 23-28,  (Honorable Mention paper)}
+}
+@MISC { the-party-is-over-he,
+  author = {Avishay Livne and Matthew P. Simmons and Eytan Adar and Lada A. Adamic},
+  title = {The Party is Over Here: Structure and Content in the 2010 Election},
+  year = {2011},
+  note = {ICWSM'11, Barcelona, Spain, July 17-21}
+}
+@MISC { memes-online--extrac,
+  author = {Matthew P. Simmons and Lada A. Adamic and Eytan Adar},
+  title = {Memes Online: Extracted, Subtracted, Injected, and Recollected},
+  year = {2011},
+  note = {ICWSM'11, Barcelona, Spain, July 17-21}
+}
+@MISC { the-impact-of-social,
+  author = {Jessica Hullman and Eytan Adar and Priti Shah},
+  title = {The Impact of Social Information on Visual Judgments},
+  year = {2011},
+  note = {CHI'11, Vancouver, Canada, May 7-11}
+}
+@MISC { why-i-hate-mechanica,
+  author = {Eytan Adar},
+  title = {Why I Hate Mechanical Turk Research (and Workshops)},
+  year = {2011},
+  note = {CHI'11 Workshop on Crowdsourcing and Human Computation, Vancouver, Canada, May 7}
+}
+@MISC { a-tool-for-policy-co,
+  author = {Alessandra Mazzia and Kristen LeFevre and Eytan Adar},
+  title = {A Tool for Policy Comprehension},
+  year = {2011},
+  note = {CHI'11 Workshop on Networked Privacy, Vancouver, Canada, May 7}
+}
+@MISC { the-temporal-dimensi,
+  author = {Eytan Adar and Mira Dontcheva and James Fogarty and Daniel S. Weld},
+  title = {The temporal dimension in end user programming for the Web},
+  year = {2010},
+  note = {Chapter in No Code Required, Morgan Kaufmann}
+}
+@MISC { resonance-on-the-web,
+  author = {Eytan Adar and Jaime Teevan and Susan Dumais},
+  title = {Resonance on the Web: Web Dynamics and Revisitation Patterns},
+  year = {2009},
+  note = {CHI 2009, Boston, MA, April 4-9}
+}
+@MISC { the-temporal-dimensi,
+  author = {Eytan Adar and Mira Dontcheva and James Fogarty and Daniel S. Weld},
+  title = {The Temporal Dimension in End User Web Programming},
+  year = {2009},
+  note = {Workshop on End User Programming for the Web, CHI 2009, Boston, MA, April 4-9}
+}
+@MISC { information-arbitrag,
+  author = {Eytan Adar and Michael Skinner and Dan Weld},
+  title = {Information Arbitrage in Multi-Lingual Wikipedia},
+  year = {2009},
+  note = {WSDM'09, Barcelona, Spain, Feb. 9-12}
+}
+@MISC { the-web-changes-ever,
+  author = {Eytan Adar and Jaime Teevan and Susan Dumais and Jonathan Elsas},
+  title = {The Web Changes Everything: Understanding the Dynamics of Web Content},
+  year = {2009},
+  note = {WSDM'09, Barcelona, Spain, Feb. 9-12, . (Best Student Paper)}
+}
+@MISC { zoetrope--interactin,
+  author = {Eytan Adar and Mira Dontcheva and James Fogarty and Daniel S. Weld},
+  title = {Zoetrope: Interacting with the Ephemeral Web},
+  year = {2008},
+  note = {UIST'08, Monterey, CA, October 19-22}
+}
+@MISC { intelligence-in-wiki,
+  author = {Daniel S. Weld and Fei Wu and Eytan Adar and Saleema Amershi and James Fogarty and Raphael Hoffmann and Kayur Patel and Michael Skinner},
+  title = {Intelligence in Wikipedia},
+  year = {2008},
+  note = {AAAI'08, Chicago, IL, July 13-17}
+}
+@MISC { large-scale-analysis,
+  author = {Eytan Adar and Jaime Teevan and Susan Dumais},
+  title = {Large Scale Analysis of Web Revisitation Patterns},
+  year = {2008},
+  note = {CHI 2008, Florence, Italy, April 5-10,  (Best of CHI)}
+}
+@MISC { managing-uncertainty,
+  author = {Eytan Adar and Christopher},
+  title = {Managing Uncertainty in Social Networks},
+  year = {2007},
+  note = {Ré, Data Engineering Bulletin, 30(2):23-31, July}
+}
+@MISC { information-re-retri,
+  author = {Jaime Teevan and Eytan Adar and Rosie Jones and Michael Potts},
+  title = {Information Re-Retrieval: Repeat Queries in Yahoo's Logs},
+  year = {2007},
+  note = {SIGIR'07, Amsterdam, The Netherlands, July}
+}
+@MISC { user--xxxxx---anonym,
+  author = {Eytan Adar},
+  title = {User 4XXXXX9: Anonymizing Query Logs},
+  year = {2007},
+  note = {Query Logs Workshop, WWW'07, Banff, Canada, May}
+}
+@MISC { why-we-search--visua,
+  author = {Eytan Adar and Daniel Weld and Brian Bershad and Steven Gribble},
+  title = {Why We Search: Visualizing and Predicting User Behavior},
+  year = {2007},
+  note = {WWW'07, Banff, Canada, May}
+}
+@MISC { softguess--visualiza,
+  author = {Eytan Adar and Miryung Kim},
+  title = {SoftGUESS: Visualization and Exploration of Code Clones in Context},
+  year = {2007},
+  note = {ICSE 2007 (formal demo), Minneapolis, MN, May}
+}

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibteXML.dtd">
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="leveraging-noisy-lis">
+  <bibtex:misc>
+    <bibtex:author>Matthew Burgess; Alessandra Mazzia; Eytan Adar; Michael Cafarella</bibtex:author>
+    <bibtex:title>Leveraging Noisy Lists for Social Feed Ranking</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>to appear, ICWSM&apos;13</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="benevolent-deception">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Desney Tan; Jaime Teevan</bibtex:author>
+    <bibtex:title>Benevolent Deception in Human Computer Interaction</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>to appear, CHI&apos;13 (Honorable Mention paper)</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="contextifier--automa">
+  <bibtex:misc>
+    <bibtex:author>Jessica Hullman; Nicholas Diakopoulos; Eytan Adar</bibtex:author>
+    <bibtex:title>Contextifier: Automatic Generation of Annotated Stock Visualizations</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>to appear, CHI&apos;13</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="pixeltone--a-multimo">
+  <bibtex:misc>
+    <bibtex:author>Gierad Laput; Mira Dontcheva; Gregg Wilensky; Walter Chang; Aseem Agarwala; Jason Linder; Eytan Adar</bibtex:author>
+    <bibtex:title>PixelTone: A Multimodal Interface for Image Editing</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>to appear, CHI&apos;13</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="predicting-citation-">
+  <bibtex:misc>
+    <bibtex:author>Avishay Livne; Eytan Adar; Jaime Teevan; Susan Dumais</bibtex:author>
+    <bibtex:title>Predicting Citation Counts Using Text and Graph Mining</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>to appear, iConference 2013 Workshop on Computational Scientometrics: Theory and Applications</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="tutorial-based-inter">
+  <bibtex:misc>
+    <bibtex:author>Gierad Laput; Eytan Adar; Mira Dontcheva; Wilmot Li</bibtex:author>
+    <bibtex:title>Tutorial-based Interfaces for Cloud-enabled Applications</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>UIST&apos;12</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="personalized-online-">
+  <bibtex:misc>
+    <bibtex:author>Daniel S. Weld; Eytan Adar; Lydia Chilton; Raphael Hoffmann; Eric Horvitz; Mitchell Koch; James Landay; Christopher H. Lin; Mausam</bibtex:author>
+    <bibtex:title>Personalized Online EducationA Crowdsourcing Challenge</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>HCOMP &apos;12, Toronto, Canada, July 23, 2012</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-pviz-comprehensi">
+  <bibtex:misc>
+    <bibtex:author>Alessandra Mazzia; Kristen LeFevre; Eytan Adar</bibtex:author>
+    <bibtex:title>The PViz Comprehension Tool for Social Network Privacy Settings</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>SOUPS&apos;12, Washington DC, July 11-13, 2012</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="searching-for-statis">
+  <bibtex:misc>
+    <bibtex:author>Shirley Zhe Chen; Michael J. Cafarella; Eytan Adar</bibtex:author>
+    <bibtex:title>Searching for Statistical Diagrams</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Frontiers of Engineering, National Academy of Engineering, Washington DC, 2012</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="benefiting-infovis-w">
+  <bibtex:misc>
+    <bibtex:author>Jessica Hullman; Eytan Adar; Priti Shah</bibtex:author>
+    <bibtex:title>Benefiting InfoVis with Visual Difficulties</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>InfoVis&apos;11, Providence, RI, Oct 23-28, 2011 (Honorable Mention paper)</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-party-is-over-he">
+  <bibtex:misc>
+    <bibtex:author>Avishay Livne; Matthew P. Simmons; Eytan Adar; Lada A. Adamic</bibtex:author>
+    <bibtex:title>The Party is Over Here: Structure and Content in the 2010 Election</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>ICWSM&apos;11, Barcelona, Spain, July 17-21, 2011</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="memes-online--extrac">
+  <bibtex:misc>
+    <bibtex:author>Matthew P. Simmons; Lada A. Adamic; Eytan Adar</bibtex:author>
+    <bibtex:title>Memes Online: Extracted, Subtracted, Injected, and Recollected</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>ICWSM&apos;11, Barcelona, Spain, July 17-21, 2011</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-impact-of-social">
+  <bibtex:misc>
+    <bibtex:author>Jessica Hullman; Eytan Adar; Priti Shah</bibtex:author>
+    <bibtex:title>The Impact of Social Information on Visual Judgments</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>CHI&apos;11, Vancouver, Canada, May 7-11, 2011</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="why-i-hate-mechanica">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar</bibtex:author>
+    <bibtex:title>Why I Hate Mechanical Turk Research (and Workshops)</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>CHI&apos;11 Workshop on Crowdsourcing and Human Computation, Vancouver, Canada, May 7, 2011</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="a-tool-for-policy-co">
+  <bibtex:misc>
+    <bibtex:author>Alessandra Mazzia; Kristen LeFevre; Eytan Adar</bibtex:author>
+    <bibtex:title>A Tool for Policy Comprehension</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>CHI&apos;11 Workshop on Networked Privacy, Vancouver, Canada, May 7, 2011</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-temporal-dimensi">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Mira Dontcheva; James Fogarty; Daniel S. Weld</bibtex:author>
+    <bibtex:title>The temporal dimension in end user programming for the Web</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Chapter in No Code Required, Morgan Kaufmann, 2010</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="resonance-on-the-web">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Jaime Teevan; Susan Dumais</bibtex:author>
+    <bibtex:title>Resonance on the Web: Web Dynamics and Revisitation Patterns</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>CHI 2009, Boston, MA, April 4-9, 2009</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-temporal-dimensi">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Mira Dontcheva; James Fogarty; Daniel S. Weld</bibtex:author>
+    <bibtex:title>The Temporal Dimension in End User Web Programming</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Workshop on End User Programming for the Web, CHI 2009, Boston, MA, April 4-9,2009</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="information-arbitrag">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Michael Skinner; Dan Weld</bibtex:author>
+    <bibtex:title>Information Arbitrage in Multi-Lingual Wikipedia</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>WSDM&apos;09, Barcelona, Spain, Feb. 9-12, 2009</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-web-changes-ever">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Jaime Teevan; Susan Dumais; Jonathan Elsas</bibtex:author>
+    <bibtex:title>The Web Changes Everything: Understanding the Dynamics of Web Content</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>WSDM&apos;09, Barcelona, Spain, Feb. 9-12, 2009. (Best Student Paper)</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="zoetrope--interactin">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Mira Dontcheva; James Fogarty; Daniel S. Weld</bibtex:author>
+    <bibtex:title>Zoetrope: Interacting with the Ephemeral Web</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>UIST&apos;08, Monterey, CA, October 19-22, 2008</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="intelligence-in-wiki">
+  <bibtex:misc>
+    <bibtex:author>Daniel S. Weld; Fei Wu; Eytan Adar; Saleema Amershi; James Fogarty; Raphael Hoffmann; Kayur Patel; Michael Skinner</bibtex:author>
+    <bibtex:title>Intelligence in Wikipedia</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>AAAI&apos;08, Chicago, IL, July 13-17, 2008</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="large-scale-analysis">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Jaime Teevan; Susan Dumais</bibtex:author>
+    <bibtex:title>Large Scale Analysis of Web Revisitation Patterns</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>CHI 2008, Florence, Italy, April 5-10, 2008 (Best of CHI)</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="managing-uncertainty">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Christopher Ré; Data Engineering Bulletin</bibtex:author>
+    <bibtex:title>Managing Uncertainty in Social Networks</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>30(2):23-31, July, 2007</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="information-re-retri">
+  <bibtex:misc>
+    <bibtex:author>Jaime Teevan; Eytan Adar; Rosie Jones; Michael Potts</bibtex:author>
+    <bibtex:title>Information Re-Retrieval: Repeat Queries in Yahoo&apos;s Logs</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>SIGIR&apos;07, Amsterdam, The Netherlands, July 2007</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="user--xxxxx---anonym">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar</bibtex:author>
+    <bibtex:title>User 4XXXXX9: Anonymizing Query Logs</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Query Logs Workshop, WWW&apos;07, Banff, Canada, May 2007</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="why-we-search--visua">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Daniel Weld; Brian Bershad; Steven Gribble</bibtex:author>
+    <bibtex:title>Why We Search: Visualizing and Predicting User Behavior</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>WWW&apos;07, Banff, Canada, May 2007</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="softguess--visualiza">
+  <bibtex:misc>
+    <bibtex:author>Eytan Adar; Miryung Kim</bibtex:author>
+    <bibtex:title>SoftGUESS: Visualization and Exploration of Code Clones in Context</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>ICSE 2007 (formal demo), Minneapolis, MN, May 2007</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+</bibtex:file>

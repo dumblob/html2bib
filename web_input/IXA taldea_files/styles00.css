@@ -1,0 +1,371 @@
+body {
+	background:  #FFFFFF; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	color: #DDDDDD;
+}
+#container { /* Holds it all in the center of the page */
+
+        width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #FFFFFF url(containe.gif) top left repeat-y;
+}
+       .container a:link, #bidea a:visited {
+		color: #EF1809;
+		text-decoration: none;
+              
+	}
+        .container ul, #bidea li{
+		color: #848484;
+		text-decoration: none;
+                font-size : 0.7em;
+	}
+	
+#header { /* The top or header of the page */
+	width: 29em; /* 490px; */
+	height: 6em; /* 130px; */
+	background: #FFFFFF  top right no-repeat; /* styles combined. Watch, edit and learn! */
+	float: right; /* Stick that header on the right side of #container */
+        text-align: right;  
+}
+	#header h1 {
+		font-family: "Trebuchet MS", Tahoma, Verdana, sans-serif;
+		font-size: 1.5em; /* #32px; */
+		font-weight: lighter;
+		letter-spacing: -2px;
+		text-transform: uppercase;
+                margin-top:  -28px; /*-0.5em; */
+                margin-right:10px;
+             	line-height: 140%;
+}
+	#header span {
+		font-family: "Trebuchet MS", Tahoma, Verdana, sans-serif;
+		font-size: 0.88em; /* #28px; */
+		font-weight: lighter;
+		letter-spacing: -2px;
+		text-transform: uppercase;
+		color: #666666;
+	}
+		
+	#header h2 {
+		font-family: "Times New Roman", Times, serif;
+		font-size: 1em; /*  20px; */
+		color: #CACACA;
+		letter-spacing: -1px;
+		font-style: italic;
+		line-height: 0px;
+	        margin: 2em 5em 0 0;
+              	}
+
+#hizkuntza { 
+
+	width: 80px;
+	height: 30px;
+        margin: 20px 0px 10px 40px ;
+	float: left; /* Stick that header on the right side of #container */
+	text-align: right;
+}
+#search_section {
+
+	float: left;
+	#margin: 100px 20px 20px 0;
+	margin: 2em 1em 0 1em;
+}
+
+#search_section form {
+
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+#searchfield {
+
+	height: 1.5em; /* 16px; */
+	width: 13em; /* 180px;*/
+	padding: 5px;
+	margin: 0px;
+	color: #ffffff;
+	font-size: 0.75em; /* 12px; */
+	font-variant: normal;
+	line-height: normal;
+	background: #CB1205; /* #D81608;  #EF1809   #af1313; */
+	  
+}
+
+#searchbutton {
+
+ 	height: 29px;
+	margin: 0px;
+	padding: 4px 6px 6px 6px;
+	cursor: pointer;
+	font-size: 0.75em; /* 12px; */
+	text-align: center;
+	vertical-align: bottom;
+	white-space: pre;
+	color: #000000;
+	background: none; 
+	
+}
+
+#left_black { 
+	width:  150px; 
+	min-height: 600px;
+	float: left;
+       }
+	.navcontainer { 
+	 	width: 150px; 
+		margin-top: 10px;
+	}
+      .navcontainer hr {height: 0; width: 140px; margin-left: 5px;}
+      .navcontainer h4 { width: 140px; margin-left: 5px;}
+	 ul {
+		margin-left: 0;
+		margin-top: 0;
+		padding-left: 0;
+		list-style-type: none;
+		
+                color: #EF1809 ; 
+	}
+
+	.navcontainer a.tt {
+		display: block;
+		padding: 3px;
+		width: 145px;
+		font-size: 0.75em;
+	}
+	.navcontainer  a.tt span{ display: none; }
+	.navcontainer a:link{
+		color: #D9CAC9;/* #EF1809 ; */
+                		text-decoration: none;             
+	}
+        .navcontainer a:visited{
+		color: #D9CAC9;/* #EF1809 ; */
+		text-decoration: none;
+               	}
+	
+	.navcontainer a.tt:hover {
+		z-index:999; /* Mezua edozeren gainetik geratzeko */
+		background: #000000 url(http://ixa.si.ehu.es/Ixa/Argitalpenak/images/arrow.gif) 96% 50% no-repeat;
+		filter: alpha(opacity=87);
+		-moz-opacity: 0.87;
+		opacity: 0.87;
+		color: #FFFFFF;             
+	}
+	.navcontainer a.tt:hover span{
+     	display:block;
+    	position: absolute; 
+    	width:auto;
+	margin: 10px 0 0 20px;    	
+    	background-color:#605A5A;
+	color:#ffffff;
+    	text-align: left;
+    	font-family: Arial, Helvetica, sans-serif;
+    	font-size: 1em; /* 10px; */
+    	padding: 5px;
+	}
+	.navcontainer span{
+     	display:block;
+    	margin: 10px 0 0 10px;
+    	color:#ffffff;
+    	text-align: left;
+    	font-family: Arial, Helvetica, sans-serif;
+    	font-size: 0.63em; /* 10px; */
+    	padding: 5px;
+	}
+        .navcontainer a.current_page_item  {
+              font-style: italic; 
+             font-weight: bold; 
+	    font-size: 0.7em;
+        }		
+	
+#navlist {
+		color: #D9CAC9;/* #EF1809 ; */
+		text-decoration: none;
+                 font-size: 1em;
+	}
+	
+#core {
+
+	width: 790px;
+	min-height: 400px;
+	background: #FFFFFF url(http://ixa.si.ehu.es/Ixa/Argitalpenak/images/core_back.jpg) top left no-repeat;
+	float: right;
+}
+
+.core_text {
+
+	width: 770px;
+	float: right;
+	padding: 5px;
+	margin-right: 5px;
+	_margin-right: 8px; /* IE HACK */
+	margin-top: 0px;
+	background: #FFFFFF url(pink_cor.jpg) top left no-repeat;
+padding: 5px;
+		font-size: 0.7em;
+		color: #000000; 
+}
+
+	.core_text h1 {
+		font-family: "Trebuchet MS", Tahoma, Verdana, sans-serif;
+		font-size: 1.9em; /* 20px; */
+		text-transform: uppercase;
+		font-weight: lighter;
+		letter-spacing: -2px;
+		color: #EF1809;
+		padding: 5px 10px 0px 5px;
+	}
+        .core_text h2 {
+		font-family: "Trebuchet MS", Tahoma, Verdana, sans-serif;
+		font-size: 1.9em; /* 20px; */
+		text-transform: uppercase;
+		font-weight: lighter;
+		letter-spacing: -2px;
+		color: #585858;/* #000000; */
+                /* font-weight: bold;   */
+		padding: 5px 10px 0px 5px;
+	}
+        .core_text h3 {
+		font-family: "Trebuchet MS", Tahoma, Verdana, sans-serif;
+		font-size: 1.9em; /* 20px; */
+		text-transform: lowercase;
+		font-weight: lighter;
+		letter-spacing: -2px;
+		color:  #585858;/* #000000; */
+                padding: 5px 10px 0px 5px;
+	} 
+     	.core_text p {	
+		padding: 5px;
+		/* font-size: 0.63em; */
+		color: #666666; 
+	}
+	.core_text a {
+		color: #EF1809;
+	}
+		
+        .core_text a:visited {	
+		color:  #9E423B; /* #A15651; */}
+
+#footer {
+	width: 960px;
+	height: auto;
+	background:  #CB1205; /* #EF1809; */
+	clear: both;
+	text-align: center;
+}
+	#footer p {
+		padding: 3px;
+		margin: 0;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 0.6em;
+		color: #B00C0C;
+	}
+	#footer a {
+		color: #B00C0C;
+		text-decoration: none;
+	}
+#ehu span{
+	font-size : 0.9em;
+	text-align : center;
+	color : rgb(00,00,00);
+}
+
+#kontaktua span{
+	font-size : 0.9em;
+	text-align : right;
+	color : rgb(00,00,00);
+}
+#bidea{
+	float: left;
+	margin: 1em 1em 0 1em;
+}
+img.ehu_logoa{
+        float: left;
+	margin: 1em 0 0 8em;
+}
+img.irits{
+        float: left;
+	margin: 0px 10px 0px 0px;
+}
+a.gabe:visited, a.gabe:link {
+     color: #EF1809 ;
+    text-decoration:none
+}
+a.grixa{
+
+       color : grey;
+       text-decoration: none;
+	
+}
+.grixa{
+
+       color : grey;
+	
+}
+.taula_ertza {border: 1px solid #605A5A;  border-spacing: 0px;}
+.tamaina { color: #C71306; font-weight: bold; border-bottom: 2px solid #4C3939; width: 140px; margin-left: 5px;}
+.txiki{ /* The top or header of the page */
+	
+	float: left; /* Stick that header on the right side of #container */
+        text-align: left; 
+        font-size:0.7em
+}
+#txiki2 { /* The top or header of the page */
+	
+	float: right; /* Stick that header on the right side of #container */
+        text-align: right; 
+        font-size:0.7em
+}
+#txiki3 { /* The top or header of the page */
+	
+	float: left;
+        text-align: left;
+        color : black;
+        font-size:0.7em
+}
+a.tt:hover span{
+     	display:block;
+    	position: absolute; 
+    	width:auto;
+	margin: 10px 0 0 20px;    	
+    	background-color:#605A5A;
+	color:#ffffff;
+    	text-align: left;
+    	font-family: Arial, Helvetica, sans-serif;
+    	font-size: 1em; /* 10px; */
+    	padding: 5px;
+	}
+a.tt span{ display: none; }
+
+th {width: 20px;}
+a.tt2:hover span{
+     	display:block;
+    	position: absolute; 
+    	width:auto;
+	margin: 10px 0 0 20px;    	
+    	background-color:#605A5A;
+	color:#ffffff;
+    	text-align: left;
+    	font-family: Arial, Helvetica, sans-serif;
+    	font-size: 1em; /* 10px; */
+    	padding: 5px;
+	}
+a.tt2 span{ display: none; }
+a.tt2:visited, a.tt2:link {
+     color: #000000 ;
+    text-decoration:none
+}
+a.laranja:visited, a.laranja:link {
+     color: #E86914;
+    text-decoration:none
+}
+.scrollable{
+   overflow: auto; width: 900px; height: 90px; 
+ }
+ .scrollable select{
+   border: none;
+ }
+#scroll_besteak {unicode-bidi:bidi-override; direction:rtl; display:block; width:300px; height:100px; overflow:auto; padding:10px; border:1px solid #ba8; margin:100px auto;}
+

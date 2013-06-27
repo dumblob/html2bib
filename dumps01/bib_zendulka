@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibteXML.dtd">
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="wavelet-based-featur">
+  <bibtex:unpublished>
+    <bibtex:author>Pavla Bromová and Petr Škoda and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Wavelet Based Feature Extraction for Clustering of Be Stars</bibtex:title>
+    <bibtex:year>2013</bibtex:year>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=10307</bibtex:url>
+    <bibtex:pages>9</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:unpublished>
+</bibtex:entry>
+<bibtex:entry id="integration-system-f">
+  <bibtex:article>
+    <bibtex:author>Jaroslav Bendl and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Integration System for Functional Annotation of Single Nucleotide Polymorphism</bibtex:title>
+    <bibtex:journal>ElectroScope</bibtex:journal>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:issn>1802-4564</bibtex:issn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9929</bibtex:url>
+    <bibtex:number>5</bibtex:number>
+    <bibtex:pages>5</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+    <bibtex:volume>2012</bibtex:volume>
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="brno-university-of-t">
+  <bibtex:inproceedings>
+    <bibtex:author>Petr Chmelař and Jozef Mlích and Martin Pešek and Tomáš Volf and Pavel Zemčík and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Brno University of Technology at TRECVid 2012: Interactive Surveillance Event Detection Pilot</bibtex:title>
+    <bibtex:booktitle>2012 TREC Video Retrieval Evaluation Notebook Papers and Slides</bibtex:booktitle>
+    <bibtex:publisher>National Institute of Standards and Technology</bibtex:publisher>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=10192</bibtex:url>
+    <bibtex:location>Gaithersburg, US</bibtex:location>
+    <bibtex:pages>9</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="multi-level-sequence">
+  <bibtex:article>
+    <bibtex:author>Michal Šebek and Martin Hlosta and Jan Kupčík and Jaroslav Zendulka and Tomáš Hruška</bibtex:author>
+    <bibtex:title>Multi-level Sequence Mining Based on GSP</bibtex:title>
+    <bibtex:journal>Acta Electrotechnica et Informatica</bibtex:journal>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:issn>1335-8243</bibtex:issn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9874</bibtex:url>
+    <bibtex:number>2</bibtex:number>
+    <bibtex:pages>31--38</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+    <bibtex:volume>2012</bibtex:volume>
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="feature-extraction-u">
+  <bibtex:inproceedings>
+    <bibtex:author>Petr Škoda and Pavla Bromová and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Feature Extraction Using Wavelet Power Spectrum for Stellar Spectra Clustering</bibtex:title>
+    <bibtex:booktitle>Proceedings of the 11th annual conference Znalosti 2012</bibtex:booktitle>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:isbn>978-80-7378-220-7</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=10061</bibtex:url>
+    <bibtex:location>Praha, CZ</bibtex:location>
+    <bibtex:pages>31--40</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="mining-moving-object">
+  <bibtex:article>
+    <bibtex:author>Jaroslav Zendulka and Martin Pešek</bibtex:author>
+    <bibtex:title>Mining Moving Object Data</bibtex:title>
+    <bibtex:journal>Central European Journal of Computer Science</bibtex:journal>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:issn>1896-1533</bibtex:issn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9879</bibtex:url>
+    <bibtex:number>3</bibtex:number>
+    <bibtex:pages>183--193</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+    <bibtex:volume>2</bibtex:volume>
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="multi-level-sequence">
+  <bibtex:inproceedings>
+    <bibtex:author>Michal Šebek and Martin Hlosta and Jan Kupčík and Jaroslav Zendulka and Tomáš Hruška</bibtex:author>
+    <bibtex:title>Multi-level Sequence Mining Based on GSP</bibtex:title>
+    <bibtex:booktitle>Proceedings of the Eleventh International Conference on Informatics INFORMATICS&apos;2011</bibtex:booktitle>
+    <bibtex:publisher>Faculty of Electrical Engineering and Informatics, University of Technology Košice</bibtex:publisher>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:isbn>978-80-89284-94-8</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9647</bibtex:url>
+    <bibtex:location>Košice, SK</bibtex:location>
+    <bibtex:pages>185--190</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+    <bibtex:series>1</bibtex:series>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="knowledge-discovery-">
+  <bibtex:inproceedings>
+    <bibtex:author>Michal Šebek and Martin Hlosta and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Knowledge Discovery in Data with FIT-Miner</bibtex:title>
+    <bibtex:booktitle>Znalosti 2011: Sborník příspěvků 10. ročníku konference</bibtex:booktitle>
+    <bibtex:publisher>VŠB-Technical University of Ostrava</bibtex:publisher>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:isbn>978-80-248-2369-0</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9474</bibtex:url>
+    <bibtex:location>Stará Lesná, SK</bibtex:location>
+    <bibtex:pages>182--193</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="datakon-------p--sp-">
+  <bibtex:proceedings>
+    <bibtex:title>Datakon 2011, příspěvky</bibtex:title>
+    <bibtex:publisher>Brno University of Technology</bibtex:publisher>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:isbn>978-80-214-4329-7</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9819</bibtex:url>
+    <bibtex:editor>Jaroslav Zendulka and Marek Rychlý</bibtex:editor>
+    <bibtex:pages>203</bibtex:pages>
+    <bibtex:language>czech</bibtex:language>
+    <bibtex:location>Brno, CZ</bibtex:location>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="datakon-------tutori">
+  <bibtex:proceedings>
+    <bibtex:title>Datakon 2011, tutoriály</bibtex:title>
+    <bibtex:publisher>Brno University of Technology</bibtex:publisher>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:isbn>978-80-214-4330-3</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9820</bibtex:url>
+    <bibtex:editor>Jaroslav Zendulka and Marek Rychlý</bibtex:editor>
+    <bibtex:pages>95</bibtex:pages>
+    <bibtex:language>czech</bibtex:language>
+    <bibtex:location>Brno, CZ</bibtex:location>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="mining-moving-object">
+  <bibtex:inproceedings>
+    <bibtex:author>Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Mining Moving Object Data</bibtex:title>
+    <bibtex:booktitle>Proceedings of the Eleventh International Conference on Informatics</bibtex:booktitle>
+    <bibtex:publisher>Faculty of Electrical Engineering and Informatics, University of Technology Košice</bibtex:publisher>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:isbn>978-80-89284-94-8</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9799</bibtex:url>
+    <bibtex:location>Košice, SK</bibtex:location>
+    <bibtex:pages>16--21</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="clustering-technique">
+  <bibtex:book>
+    <bibtex:author>Ivana Burgetová and Jaroslav Zendulka and Matej Lexa</bibtex:author>
+    <bibtex:title>Clustering Techniques for Protein Fragments Analysis</bibtex:title>
+    <bibtex:publisher>Faculty of Information Technology BUT</bibtex:publisher>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:isbn>978-80-214-4207-8</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9504</bibtex:url>
+    <bibtex:location>Brno, CZ</bibtex:location>
+    <bibtex:pages>102</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="the-design-of-self-d">
+  <bibtex:inproceedings>
+    <bibtex:author>Radim Dvořák and Jiří Krajíček and Jaroslav Zendulka and V. František Zbořil</bibtex:author>
+    <bibtex:title>The Design of Self-Developmental Model of Atmospheric Pollutant Dispersion</bibtex:title>
+    <bibtex:booktitle>Proceedings of the 7th EUROSIM Congress on Modelling and Simulation</bibtex:booktitle>
+    <bibtex:publisher>Czech Technical University Publishing House</bibtex:publisher>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:isbn>978-80-01-04589-3</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9313</bibtex:url>
+    <bibtex:location>Praha, CZ</bibtex:location>
+    <bibtex:pages>6</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="clustering-of-protei">
+  <bibtex:inproceedings>
+    <bibtex:author>Ivana Rudolfová and Jaroslav Zendulka and Matej Lexa</bibtex:author>
+    <bibtex:title>Clustering of Protein Substructures for Discovery of a Novel Class of Sequence-Structure Fragments</bibtex:title>
+    <bibtex:booktitle>Information Technology in Bio- and Medical Informatics, ITBAM 2010</bibtex:booktitle>
+    <bibtex:publisher>Springer Verlag</bibtex:publisher>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:isbn>978-3-642-15019-7</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9338</bibtex:url>
+    <bibtex:location>Heidelberg, DE</bibtex:location>
+    <bibtex:pages>94--101</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+    <bibtex:series>LNCS 6266</bibtex:series>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="modelling-of-compone">
+  <bibtex:book>
+    <bibtex:author>Marek Rychlý and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Modelling of Component-Based Systems with Mobile Architecture</bibtex:title>
+    <bibtex:publisher>Faculty of Information Technology BUT</bibtex:publisher>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:isbn>978-80-214-4211-5</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9466</bibtex:url>
+    <bibtex:location>Brno, CZ</bibtex:location>
+    <bibtex:pages>139</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:book>
+</bibtex:entry>
+<bibtex:entry id="clustering-for-video">
+  <bibtex:inproceedings>
+    <bibtex:author>Petr Chmelař and Ivana Rudolfová and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Clustering for Video Retrieval</bibtex:title>
+    <bibtex:booktitle>Data Warehousing and Knowledge Discovery</bibtex:booktitle>
+    <bibtex:publisher>Springer Verlag</bibtex:publisher>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:isbn>978-3-642-03729-0</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=8965</bibtex:url>
+    <bibtex:location>Heidelberg, DE</bibtex:location>
+    <bibtex:pages>390--401</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+    <bibtex:series>LNCS 5691</bibtex:series>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="object-relational-mo">
+  <bibtex:inbook>
+    <bibtex:author>Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Object-Relational Modeling</bibtex:title>
+    <bibtex:booktitle>Handbook of Research on Innovations in Database Technologies and Applications. Volume 1.</bibtex:booktitle>
+    <bibtex:publisher>IGI Global</bibtex:publisher>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:isbn>978-1-60566-242-8</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=9026</bibtex:url>
+    <bibtex:location>Hershey, New York, US</bibtex:location>
+    <bibtex:pages>162--170</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="distance-based-metho">
+  <bibtex:inbook>
+    <bibtex:author>Vladimír Bartík and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Distance-Based Methods for Association Rules Mining</bibtex:title>
+    <bibtex:booktitle>Encyclopedia of Data Warehousing and Mining. Volume 2.</bibtex:booktitle>
+    <bibtex:publisher>IGI Global</bibtex:publisher>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:isbn>978-1-60566-010-3</bibtex:isbn>
+    <bibtex:edition>Second Edition</bibtex:edition>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=8774</bibtex:url>
+    <bibtex:location>Hershey, New York, US</bibtex:location>
+    <bibtex:pages>689--694</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="visual-surveillance-">
+  <bibtex:inproceedings>
+    <bibtex:author>Petr Chmelař and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Visual Surveillance Metadata Management</bibtex:title>
+    <bibtex:booktitle>Eighteenth International Workshop on Database and Expert Systems Applications</bibtex:booktitle>
+    <bibtex:publisher>IEEE Computer Society Press</bibtex:publisher>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:isbn>978-0-7695-2932-5</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=8426</bibtex:url>
+    <bibtex:location>Regensburg, DE</bibtex:location>
+    <bibtex:pages>79--83</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+    <bibtex:series>IEEE CPS</bibtex:series>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="modeling-of-services">
+  <bibtex:inproceedings>
+    <bibtex:author>Petr Weiss and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Modeling of Services and Service Collaboration in UML 2.0</bibtex:title>
+    <bibtex:booktitle>Information Systems and Formal Models</bibtex:booktitle>
+    <bibtex:publisher>Faculty of Philosophy and Science in Opava, Silesian university in Opava</bibtex:publisher>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:isbn>978-80-7248-006-7</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=8311</bibtex:url>
+    <bibtex:location>Opava, CZ</bibtex:location>
+    <bibtex:pages>29--36</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="jak-z-sk-vat-a-uplat">
+  <bibtex:inproceedings>
+    <bibtex:author>Zdeněk Opršal and Zdeněk Fiedler and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Jak získávat a uplatňovat znalosti při rozvoji IS</bibtex:title>
+    <bibtex:booktitle>DATAKON 2006 Proceedings of the Annual Database conference</bibtex:booktitle>
+    <bibtex:publisher>Masaryk University</bibtex:publisher>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:isbn>80-210-4102-1</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=8254</bibtex:url>
+    <bibtex:location>Brno, CZ</bibtex:location>
+    <bibtex:pages>149--158</bibtex:pages>
+    <bibtex:language>czech</bibtex:language>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="clustering-of-protei">
+  <bibtex:inproceedings>
+    <bibtex:author>Ivana Rudolfová and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Clustering of Protein Sequences</bibtex:title>
+    <bibtex:booktitle>Proceedings of 1st International Workshop WFM&apos;06</bibtex:booktitle>
+    <bibtex:publisher></bibtex:publisher>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:isbn>80-86840-20-4</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=8058</bibtex:url>
+    <bibtex:location>Přerov, CZ</bibtex:location>
+    <bibtex:pages>71--78</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="distributed-informat">
+  <bibtex:inproceedings>
+    <bibtex:author>Marek Rychlý and Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Distributed Information System as a System of Asynchronous Concurrent Processes</bibtex:title>
+    <bibtex:booktitle>MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science</bibtex:booktitle>
+    <bibtex:publisher>Faculty of Information Technology BUT</bibtex:publisher>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:isbn>80-214-3287-X</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=8195</bibtex:url>
+    <bibtex:location>Mikulov, CZ</bibtex:location>
+    <bibtex:pages>206--213</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inproceedings>
+</bibtex:entry>
+<bibtex:entry id="proceedings-of--th-i">
+  <bibtex:proceedings>
+    <bibtex:title>Proceedings of 9th International Conference ISIM&apos;06</bibtex:title>
+    <bibtex:publisher></bibtex:publisher>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:isbn>80-86840-19-0</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=8255</bibtex:url>
+    <bibtex:editor>Jaroslav Zendulka</bibtex:editor>
+    <bibtex:pages>192</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+    <bibtex:location>Ostrava, CZ</bibtex:location>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="proceedings-of--th-s">
+  <bibtex:proceedings>
+    <bibtex:title>Proceedings of 8th Spring International Conference ISIM&apos;05</bibtex:title>
+    <bibtex:publisher></bibtex:publisher>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:isbn>80-86840-09-02</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=7788</bibtex:url>
+    <bibtex:editor>Jaroslav Zendulka</bibtex:editor>
+    <bibtex:pages>303</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+    <bibtex:location>Ostrava, CZ</bibtex:location>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="api-standardization-">
+  <bibtex:inbook>
+    <bibtex:author>Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>API Standardization Efforts for Data Mining</bibtex:title>
+    <bibtex:booktitle>Encyclopedia of Data Warehousing and Mining. Volume 1.</bibtex:booktitle>
+    <bibtex:publisher>Idea Group Publishing</bibtex:publisher>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:isbn>1-59140-557-2</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=7786</bibtex:url>
+    <bibtex:location>Hershey, US</bibtex:location>
+    <bibtex:pages>39--43</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="object-relational-mo">
+  <bibtex:inbook>
+    <bibtex:author>Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Object-Relational Modeling in the UML</bibtex:title>
+    <bibtex:booktitle>Encyclopedia of Database Technologies and Applications</bibtex:booktitle>
+    <bibtex:publisher>Idea Group Publishing</bibtex:publisher>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:isbn>1-59140-560-2</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=7671</bibtex:url>
+    <bibtex:location>Hershey, US</bibtex:location>
+    <bibtex:pages>421--426</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="using-standard-apis-">
+  <bibtex:inbook>
+    <bibtex:author>Jaroslav Zendulka</bibtex:author>
+    <bibtex:title>Using Standard APIs for Data Mining in Prediction</bibtex:title>
+    <bibtex:booktitle>Encyclopedia of Data Warehousing and Mining. Volume 2.</bibtex:booktitle>
+    <bibtex:publisher>Idea Group Publishing</bibtex:publisher>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:isbn>1-59140-557-2</bibtex:isbn>
+    <bibtex:url>http://www.fit.vutbr.cz/research/view_pub.php?id=7819</bibtex:url>
+    <bibtex:location>Hershey, US</bibtex:location>
+    <bibtex:pages>1171--1174</bibtex:pages>
+    <bibtex:language>english</bibtex:language>
+  </bibtex:inbook>
+</bibtex:entry>
+</bibtex:file>

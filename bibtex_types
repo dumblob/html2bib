@@ -1,0 +1,198 @@
+# @PREAMBLE defines how special text should be formatted.
+# @COMMENT for comments not taken in regard by BibTeX.
+# Entries each declaring a single reference to a type of publication,
+#   for example:@article, @book, @inproceedings etc.
+# tags
+#   case insensitive
+#   some are standardized (other are ignored)
+#   tag content (after =)
+#     in "" can be concatenated with #
+#     in {} can NOT be concatenated
+#     numbers can be standalone
+#     optional , at the end
+#   e.g. these are equal
+#     Title = {{Bib}\TeX}
+#     Title = "{Bib}\TeX"
+#     Title = "{Bib}" # "\TeX"
+#   e.g. abbreviation (using @string) can be used only as concatenation
+#     @string{btx = "{\textsc{Bib}\TeX}"} 
+#     Title = btx # "ing" 
+# correct examples:
+#   @misc{ patashnik-bibtexing,
+#          author = "Oren Patashnik",
+#          title = "BIBTEXing",
+#          year = "1988" }
+#   @article{mrx05,
+#   auTHor = "Mr. X",
+#   Title = {Something Great},
+#   publisher = "nob" # "ody"},
+#   YEAR = 2005,
+#   }
+
+bibtypes = {
+  'article': {
+    'req': ( ('author'),
+             ('title'),
+             ('journal'),
+             ('year') ),
+    'opt': ( ('volume'),
+             ('number'),
+             ('pages'),
+             ('month'),
+             ('note'),
+             ('key') ) },
+  'book': {
+    'req': ( ('author', 'editor'),
+             ('title'),
+             ('publisher'),
+             ('year') ),
+    'opt': ( ('volume', 'number'),
+             ('series'),
+             ('address'),
+             ('edition'),
+             ('month'),
+             ('note'),
+             ('key') ) },
+  'booklet': {
+    'req': ( ('title') ),
+    'opt': ( ('author'),
+             ('howpublished'),
+             ('address'),
+             ('month'),
+             ('year'),
+             ('note'),
+             ('key') ) },
+  'inbook': {
+    'req': ( ('author', 'editor'),
+             ('title'),
+             #http://tex.stackexchange.com/questions/60843/how-to-cite-a-chapter-in-a-book-with-bibtex
+             ('chapter', 'pages'),
+             ('publisher'),
+             ('year') ),
+    'opt': ( ('volume', 'number'),
+             ('series'),
+             ('type'),
+             ('address'),
+             ('edition'),
+             ('month'),
+             ('note'),
+             ('key') ) },
+  'incollection': {
+    'req': ( ('author'),
+             ('title'),
+             ('booktitle'),
+             ('publisher'),
+             ('year') ),
+    'opt': ( ('editor'),
+             ('volume', 'number'),
+             ('series'),
+             ('type'),
+             ('chapter'),
+             ('pages'),
+             ('address'),
+             ('edition'),
+             ('month'),
+             ('note'),
+             ('key') ) },
+  'conference': {  # the same as inproceedings
+    'req': ( ('author'),
+             ('title'),
+             ('booktitle'),
+             ('year') ),
+    'opt': ( ('editor'),
+             ('volume', 'number'),
+             ('series'),
+             ('pages'),
+             ('address'),
+             ('month'),
+             ('organization'),
+             ('publisher'),
+             ('note'),
+             ('key') ) },
+  'inproceedings': {
+    'req': ( ('author'),
+             ('title'),
+             ('booktitle'),
+             ('year') ),
+    'opt': ( ('editor'),
+             ('volume', 'number'),
+             ('series'),
+             ('pages'),
+             ('address'),
+             ('month'),
+             ('organization'),
+             ('publisher'),
+             ('note'),
+             ('key') ) },
+  'manual': {
+    'req': ( ('title') ),
+    'opt': ( ('author'),
+             ('organization'),
+             ('address'),
+             ('edition'),
+             ('month'),
+             ('year'),
+             ('note'),
+             ('key') ) },
+  'mastersthesis': {
+    'req': ( ('author'),
+             ('title'),
+             ('school'),
+             ('year') ),
+    'opt': ( ('type'),
+             ('address'),
+             ('month'),
+             ('note'),
+             ('key') ) },
+  'misc': {
+    'req': ( () ),
+    'opt': ( ('author'),
+             ('title'),
+             ('howpublished'),
+             ('month'),
+             ('year'),
+             ('note'),
+             ('key') ) },
+  'phdthesis': {
+    'req': ( ('author'),
+             ('title'),
+             ('school'),
+             ('year') ),
+    'opt': ( ('type'),
+             ('address'),
+             ('month'),
+             ('note'),
+             ('key') ) },
+  'proceedings': {
+    'req': ( ('title'),
+             ('year') ),
+    'opt': ( ('editor'),
+             ('volume', 'number'),
+             ('series'),
+             ('address'),
+             ('month'),
+             ('publisher'),
+             ('organization'),
+             ('note'),
+             ('key') ) },
+  'techreport': {
+    'req': ( ('author'),
+             ('title'),
+             ('institution'),
+             ('year') ),
+    'opt': ( ('type'),
+             ('number'),
+             ('address'),
+             ('month'),
+             ('note'),
+             ('key') ) },
+  'unpublished': {
+    'req': ( ('author'),
+             ('title'),
+             ('note') ),
+    'opt': ( ('month'),
+             ('year'),
+             ('key') ) }
+}
+
+# vim: set ft=python wrap:

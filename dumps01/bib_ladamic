@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibteXML.dtd">
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="how-you-met-me">
+  <bibtex:misc>
+    <bibtex:author>Lada A. Adamic; Thomas M. Lento; Andrew T. Fiore</bibtex:author>
+    <bibtex:title>How you met me</bibtex:title>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:note>ICWSM&apos;short paper</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-role-of-social-n">
+  <bibtex:misc>
+    <bibtex:author>Eytan Bakshy; Itamar Rosenn; Cameron Marlow; Lada A. Adamic</bibtex:author>
+    <bibtex:title>The Role of Social Networks in Information Diffusion</bibtex:title>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:note>WWW&apos;</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-role-of-social-n">
+  <bibtex:misc>
+    <bibtex:author>Eytan Bakshy; Itamar Rosenn; Cameron Marlow; Lada A. Adamic</bibtex:author>
+    <bibtex:title>The Role of Social Networks in Information Diffusion</bibtex:title>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:note>WWW&apos;</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="recipe-recommendatio">
+  <bibtex:misc>
+    <bibtex:author>Chun-Yuen Teng; Yu-Ru Lin; Lada A. Adamic</bibtex:author>
+    <bibtex:title>Recipe recommendation using ingredient networks</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>WebSci</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="group-membership-and">
+  <bibtex:misc>
+    <bibtex:author>David A. Huffaker; Chun-Yuen Teng; Matthew P. Simmons; Liuling Gong; Lada A. Adamic</bibtex:author>
+    <bibtex:title>Group Membership and Diffusion in Virtual Worlds</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>IEEE SocialCom</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="coevolution-of-netwo">
+  <bibtex:misc>
+    <bibtex:author>Liuling Gong; Chun-Yuen Teng; Avishay Livne; Celso Brunneti; Lada Adamic</bibtex:author>
+    <bibtex:title>Coevolution of network structure and content</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>WebSci</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="limiting-the-spread-">
+  <bibtex:misc>
+    <bibtex:author>Umanka Karkada; Lada Adamic; Jeremy Kahn; Theodore Iwashyna</bibtex:author>
+    <bibtex:title>Limiting the Spread of Highly Resistant Hospital Acquired Microorganisms Via Critical Care Transfers: A Simulation Study</bibtex:title>
+    <bibtex:year>1640</bibtex:year>
+    <bibtex:note>Int Care Med 2011; 37(10): 1633-</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="memes-online--extrac">
+  <bibtex:misc>
+    <bibtex:author>Matthew P. Simmons; Lada A. Adamic; Eytan Adar</bibtex:author>
+    <bibtex:title>Memes Online: Extracted, Subtracted, Injected, and Recollected</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="rating-friends-witho">
+  <bibtex:misc>
+    <bibtex:author>Lada A. Adamic; Debra Lauterbach; Chun-Yuen Teng; Mark S. Ackerman</bibtex:author>
+    <bibtex:title>Rating Friends Without Making Enemies</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-party-is-over-he">
+  <bibtex:misc>
+    <bibtex:author>Avishay Livne; Matthew P. Simmons; Eytan Adar; Lada A. Adamic</bibtex:author>
+    <bibtex:title>The Party is Over Here: Structure and Content in the 2010 Election</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="culture-matters--a-s">
+  <bibtex:misc>
+    <bibtex:author>Jiang Yang; Meredith Ringel Morris; Jaime Teevan; Lada A. Adamic; Mark S. Ackerman</bibtex:author>
+    <bibtex:title>Culture Matters: A Survey Study of Social Q&amp;A Behavior</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="virtual-gifts-and-gu">
+  <bibtex:misc>
+    <bibtex:author>Yang, Jiang; Ackerman Mark S.; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Virtual Gifts and Guanxi Supporting Social Exchange in a Chinese Online Community</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>CSCW, (2011); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Yang; rft.aufirst=Jiang</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="seller-activity-in-a">
+  <bibtex:misc>
+    <bibtex:author>Huffaker, David A.; Simmons Matthew; Bakshy Eytan; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Seller activity in a virtual marketplace</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>First Monday, 07/2010, Volume 15, Issue 7, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=15; rft.issue=7; rft.aulast=Huffaker; rft.aufirst=David</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="i-rate-you--you-rate">
+  <bibtex:misc>
+    <bibtex:author>Teng, Chun-Yuen; Lauterbach Debra; Adamic Lada A.</bibtex:author>
+    <bibtex:title>I rate you. You rate me. Should we do so publicly </bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>06/2010, WOSN, Boston, MA, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Teng; rft.aufirst=Chun-Yuen; rft.place=WOSN%2C+Boston%2C+MA</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="activity-lifespan-an">
+  <bibtex:misc>
+    <bibtex:author>Yang, Jiang; Wei Xiao; Ackerman Mark S.; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Activity Lifespan An Analysis of User Survival Patterns in Online Knowledge Sharing Communities</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>05/2010, Washington, D.C, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Yang; rft.aufirst=Jiang; rft.pub=4th+Int%26%23039%3Bl+AAAI+Conference+on+Weblogs+and+Social+Media; rft.place=Washington%2C+D.C</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="longevity-in-second-">
+  <bibtex:misc>
+    <bibtex:author>Teng, Chun-Yuen; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Longevity in Second Life</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>05/2010, ICWSM, Washington D.C., (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Teng; rft.aufirst=Chun-Yuen; rft.place=ICWSM%2C+Washington+D.C</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-social-dynamics-">
+  <bibtex:misc>
+    <bibtex:author>Bakshy, Eytan; Simmons Matthew P.; Huffaker David A.; Teng Chun-Yuen; Adamic Lada A.</bibtex:author>
+    <bibtex:title>The Social Dynamics of Economic Activity in a VirtualWorld</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>ICWSM, Washington, D.C. , (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.series=ICWSM; rft.aulast=Bakshy; rft.aufirst=Eytan; rft.place=ICWSM%2C+Washington%2C+D.C</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="diffusion-dynamics-o">
+  <bibtex:misc>
+    <bibtex:author>Wei, Xiao; Yang Jiang; Adamic Lada A.; de AraÃºjo Ricardo Matsumura; Rekhi Manu</bibtex:author>
+    <bibtex:title>Diffusion dynamics of games on online social networks</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>WOSN, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Wei; rft.aufirst=Xiao</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="individual-focus-and">
+  <bibtex:misc>
+    <bibtex:author>Adamic, Lada A.; Wei Xiao; Yang Jiang; Gerrish Sean; Nam Kevin K.; Clarkson Gavin S.</bibtex:author>
+    <bibtex:title>Individual focus and knowledge contribution</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>First Monday, 03/2010, Volume 15, Issue 3, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=15; rft.issue=3; rft.aulast=Adamic; rft.aufirst=Lada</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-impact-of-bounda">
+  <bibtex:misc>
+    <bibtex:author>Shi, Xiaolin; Adamic Lada A.; Tseng Belle L.; Clarkson Gavin S.</bibtex:author>
+    <bibtex:title>The Impact of Boundary Spanning Scholarly Publications and Patents</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>PLoS ONE, 08/2009, Volume 4, Issue 8, p.e6547, (2009); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=4; rft.issue=8; rft.spage=e6547; rft.aulast=Shi; rft.aufirst=Xiaolin; rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0006547</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="questions-in-knowled">
+  <bibtex:misc>
+    <bibtex:author>Nam, Kevin K.; Ackerman Mark S.; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Questions in Knowledge iN A Study of Naver s Question Answering Community</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>CHI&apos;09, 09/2008, Boston, MA, (2009); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rfr_id=info%3Asid%2Fbibsi6.cms.si.umich.edu; rft.aulast=Nam; rft.aufirst=Kevin; rft.au=Nam%2C+Kevin; rft.au=Ackerman%2C+Mark; rft.au=Adamic%2C+Lada; rft.place=Boston%2C+MA; rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdoi.acm.org%2F10.1145%2F1518701.1518821</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="group-membership-and">
+  <bibtex:misc>
+    <bibtex:author>David A. Huffaker; Chun-Yuen Teng; Matthew P. Simmons; Liuling Gong; Lada A. Adamic</bibtex:author>
+    <bibtex:title>Group Membership and Diffusion in Virtual Worlds</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>IEEE SocialCom</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="coevolution-of-netwo">
+  <bibtex:misc>
+    <bibtex:author>Liuling Gong; Chun-Yuen Teng; Avishay Livne; Celso Brunneti; Lada Adamic</bibtex:author>
+    <bibtex:title>Coevolution of network structure and content</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>WebSci</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="coevolution-of-netwo">
+  <bibtex:misc>
+    <bibtex:author>Liuling Gong; Chun-Yuen Teng; Avishay Livne; Celso Brunneti; Lada Adamic</bibtex:author>
+    <bibtex:title>Coevolution of network structure and content</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>WebSci</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="limiting-the-spread-">
+  <bibtex:misc>
+    <bibtex:author>Umanka Karkada; Lada Adamic; Jeremy Kahn; Theodore Iwashyna</bibtex:author>
+    <bibtex:title>Limiting the Spread of Highly Resistant Hospital Acquired Microorganisms Via Critical Care Transfers: A Simulation Study</bibtex:title>
+    <bibtex:year>1640</bibtex:year>
+    <bibtex:note>Int Care Med 2011; 37(10): 1633-</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="limiting-the-spread-">
+  <bibtex:misc>
+    <bibtex:author>Umanka Karkada; Lada Adamic; Jeremy Kahn; Theodore Iwashyna</bibtex:author>
+    <bibtex:title>Limiting the Spread of Highly Resistant Hospital Acquired Microorganisms Via Critical Care Transfers: A Simulation Study</bibtex:title>
+    <bibtex:year>1640</bibtex:year>
+    <bibtex:note>Int Care Med 2011; 37(10): 1633-</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="memes-online--extrac">
+  <bibtex:misc>
+    <bibtex:author>Matthew P. Simmons; Lada A. Adamic; Eytan Adar</bibtex:author>
+    <bibtex:title>Memes Online: Extracted, Subtracted, Injected, and Recollected</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="memes-online--extrac">
+  <bibtex:misc>
+    <bibtex:author>Matthew P. Simmons; Lada A. Adamic; Eytan Adar</bibtex:author>
+    <bibtex:title>Memes Online: Extracted, Subtracted, Injected, and Recollected</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="rating-friends-witho">
+  <bibtex:misc>
+    <bibtex:author>Lada A. Adamic; Debra Lauterbach; Chun-Yuen Teng; Mark S. Ackerman</bibtex:author>
+    <bibtex:title>Rating Friends Without Making Enemies</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="rating-friends-witho">
+  <bibtex:misc>
+    <bibtex:author>Lada A. Adamic; Debra Lauterbach; Chun-Yuen Teng; Mark S. Ackerman</bibtex:author>
+    <bibtex:title>Rating Friends Without Making Enemies</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-party-is-over-he">
+  <bibtex:misc>
+    <bibtex:author>Avishay Livne; Matthew P. Simmons; Eytan Adar; Lada A. Adamic</bibtex:author>
+    <bibtex:title>The Party is Over Here: Structure and Content in the 2010 Election</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-party-is-over-he">
+  <bibtex:misc>
+    <bibtex:author>Avishay Livne; Matthew P. Simmons; Eytan Adar; Lada A. Adamic</bibtex:author>
+    <bibtex:title>The Party is Over Here: Structure and Content in the 2010 Election</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="culture-matters--a-s">
+  <bibtex:misc>
+    <bibtex:author>Jiang Yang; Meredith Ringel Morris; Jaime Teevan; Lada A. Adamic; Mark S. Ackerman</bibtex:author>
+    <bibtex:title>Culture Matters: A Survey Study of Social Q&amp;A Behavior</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="culture-matters--a-s">
+  <bibtex:misc>
+    <bibtex:author>Jiang Yang; Meredith Ringel Morris; Jaime Teevan; Lada A. Adamic; Mark S. Ackerman</bibtex:author>
+    <bibtex:title>Culture Matters: A Survey Study of Social Q&amp;A Behavior</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICWSM</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="virtual-gifts-and-gu">
+  <bibtex:misc>
+    <bibtex:author>Yang, Jiang; Ackerman Mark S.; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Virtual Gifts and Guanxi Supporting Social Exchange in a Chinese Online Community</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>CSCW, (2011); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Yang; rft.aufirst=Jiang</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="virtual-gifts-and-gu">
+  <bibtex:misc>
+    <bibtex:author>Yang, Jiang; Ackerman Mark S.; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Virtual Gifts and Guanxi Supporting Social Exchange in a Chinese Online Community</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>CSCW, (2011); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Yang; rft.aufirst=Jiang</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="seller-activity-in-a">
+  <bibtex:misc>
+    <bibtex:author>Huffaker, David A.; Simmons Matthew; Bakshy Eytan; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Seller activity in a virtual marketplace</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>First Monday, 07/2010, Volume 15, Issue 7, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=15; rft.issue=7; rft.aulast=Huffaker; rft.aufirst=David</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="seller-activity-in-a">
+  <bibtex:misc>
+    <bibtex:author>Huffaker, David A.; Simmons Matthew; Bakshy Eytan; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Seller activity in a virtual marketplace</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>First Monday, 07/2010, Volume 15, Issue 7, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=15; rft.issue=7; rft.aulast=Huffaker; rft.aufirst=David</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="i-rate-you--you-rate">
+  <bibtex:misc>
+    <bibtex:author>Teng, Chun-Yuen; Lauterbach Debra; Adamic Lada A.</bibtex:author>
+    <bibtex:title>I rate you. You rate me. Should we do so publicly </bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>06/2010, WOSN, Boston, MA, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Teng; rft.aufirst=Chun-Yuen; rft.place=WOSN%2C+Boston%2C+MA</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="i-rate-you--you-rate">
+  <bibtex:misc>
+    <bibtex:author>Teng, Chun-Yuen; Lauterbach Debra; Adamic Lada A.</bibtex:author>
+    <bibtex:title>I rate you. You rate me. Should we do so publicly </bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>06/2010, WOSN, Boston, MA, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Teng; rft.aufirst=Chun-Yuen; rft.place=WOSN%2C+Boston%2C+MA</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="activity-lifespan-an">
+  <bibtex:misc>
+    <bibtex:author>Yang, Jiang; Wei Xiao; Ackerman Mark S.; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Activity Lifespan An Analysis of User Survival Patterns in Online Knowledge Sharing Communities</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>05/2010, Washington, D.C, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Yang; rft.aufirst=Jiang; rft.pub=4th+Int%26%23039%3Bl+AAAI+Conference+on+Weblogs+and+Social+Media; rft.place=Washington%2C+D.C</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="activity-lifespan-an">
+  <bibtex:misc>
+    <bibtex:author>Yang, Jiang; Wei Xiao; Ackerman Mark S.; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Activity Lifespan An Analysis of User Survival Patterns in Online Knowledge Sharing Communities</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>05/2010, Washington, D.C, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Yang; rft.aufirst=Jiang; rft.pub=4th+Int%26%23039%3Bl+AAAI+Conference+on+Weblogs+and+Social+Media; rft.place=Washington%2C+D.C</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="longevity-in-second-">
+  <bibtex:misc>
+    <bibtex:author>Teng, Chun-Yuen; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Longevity in Second Life</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>05/2010, ICWSM, Washington D.C., (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Teng; rft.aufirst=Chun-Yuen; rft.place=ICWSM%2C+Washington+D.C</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="longevity-in-second-">
+  <bibtex:misc>
+    <bibtex:author>Teng, Chun-Yuen; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Longevity in Second Life</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>05/2010, ICWSM, Washington D.C., (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Teng; rft.aufirst=Chun-Yuen; rft.place=ICWSM%2C+Washington+D.C</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-social-dynamics-">
+  <bibtex:misc>
+    <bibtex:author>Bakshy, Eytan; Simmons Matthew P.; Huffaker David A.; Teng Chun-Yuen; Adamic Lada A.</bibtex:author>
+    <bibtex:title>The Social Dynamics of Economic Activity in a VirtualWorld</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>ICWSM, Washington, D.C. , (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.series=ICWSM; rft.aulast=Bakshy; rft.aufirst=Eytan; rft.place=ICWSM%2C+Washington%2C+D.C</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-social-dynamics-">
+  <bibtex:misc>
+    <bibtex:author>Bakshy, Eytan; Simmons Matthew P.; Huffaker David A.; Teng Chun-Yuen; Adamic Lada A.</bibtex:author>
+    <bibtex:title>The Social Dynamics of Economic Activity in a VirtualWorld</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>ICWSM, Washington, D.C. , (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.series=ICWSM; rft.aulast=Bakshy; rft.aufirst=Eytan; rft.place=ICWSM%2C+Washington%2C+D.C</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="diffusion-dynamics-o">
+  <bibtex:misc>
+    <bibtex:author>Wei, Xiao; Yang Jiang; Adamic Lada A.; de AraÃºjo Ricardo Matsumura; Rekhi Manu</bibtex:author>
+    <bibtex:title>Diffusion dynamics of games on online social networks</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>WOSN, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Wei; rft.aufirst=Xiao</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="diffusion-dynamics-o">
+  <bibtex:misc>
+    <bibtex:author>Wei, Xiao; Yang Jiang; Adamic Lada A.; de AraÃºjo Ricardo Matsumura; Rekhi Manu</bibtex:author>
+    <bibtex:title>Diffusion dynamics of games on online social networks</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>WOSN, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Wei; rft.aufirst=Xiao</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="individual-focus-and">
+  <bibtex:misc>
+    <bibtex:author>Adamic, Lada A.; Wei Xiao; Yang Jiang; Gerrish Sean; Nam Kevin K.; Clarkson Gavin S.</bibtex:author>
+    <bibtex:title>Individual focus and knowledge contribution</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>First Monday, 03/2010, Volume 15, Issue 3, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=15; rft.issue=3; rft.aulast=Adamic; rft.aufirst=Lada</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="individual-focus-and">
+  <bibtex:misc>
+    <bibtex:author>Adamic, Lada A.; Wei Xiao; Yang Jiang; Gerrish Sean; Nam Kevin K.; Clarkson Gavin S.</bibtex:author>
+    <bibtex:title>Individual focus and knowledge contribution</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>First Monday, 03/2010, Volume 15, Issue 3, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=15; rft.issue=3; rft.aulast=Adamic; rft.aufirst=Lada</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-impact-of-bounda">
+  <bibtex:misc>
+    <bibtex:author>Shi, Xiaolin; Adamic Lada A.; Tseng Belle L.; Clarkson Gavin S.</bibtex:author>
+    <bibtex:title>The Impact of Boundary Spanning Scholarly Publications and Patents</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>PLoS ONE, 08/2009, Volume 4, Issue 8, p.e6547, (2009); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=4; rft.issue=8; rft.spage=e6547; rft.aulast=Shi; rft.aufirst=Xiaolin; rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0006547</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-impact-of-bounda">
+  <bibtex:misc>
+    <bibtex:author>Shi, Xiaolin; Adamic Lada A.; Tseng Belle L.; Clarkson Gavin S.</bibtex:author>
+    <bibtex:title>The Impact of Boundary Spanning Scholarly Publications and Patents</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>PLoS ONE, 08/2009, Volume 4, Issue 8, p.e6547, (2009); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=4; rft.issue=8; rft.spage=e6547; rft.aulast=Shi; rft.aufirst=Xiaolin; rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0006547</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="questions-in-knowled">
+  <bibtex:misc>
+    <bibtex:author>Nam, Kevin K.; Ackerman Mark S.; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Questions in Knowledge iN A Study of Naver s Question Answering Community</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>CHI&apos;09, 09/2008, Boston, MA, (2009); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rfr_id=info%3Asid%2Fbibsi6.cms.si.umich.edu; rft.aulast=Nam; rft.aufirst=Kevin; rft.au=Nam%2C+Kevin; rft.au=Ackerman%2C+Mark; rft.au=Adamic%2C+Lada; rft.place=Boston%2C+MA; rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdoi.acm.org%2F10.1145%2F1518701.1518821</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="questions-in-knowled">
+  <bibtex:misc>
+    <bibtex:author>Nam, Kevin K.; Ackerman Mark S.; Adamic Lada A.</bibtex:author>
+    <bibtex:title>Questions in Knowledge iN A Study of Naver s Question Answering Community</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>CHI&apos;09, 09/2008, Boston, MA, (2009); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rfr_id=info%3Asid%2Fbibsi6.cms.si.umich.edu; rft.aulast=Nam; rft.aufirst=Kevin; rft.au=Nam%2C+Kevin; rft.au=Ackerman%2C+Mark; rft.au=Adamic%2C+Lada; rft.place=Boston%2C+MA; rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdoi.acm.org%2F10.1145%2F1518701.1518821</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+</bibtex:file>

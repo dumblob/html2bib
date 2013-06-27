@@ -1,0 +1,120 @@
+@MISC { how-you-met-me,
+  author = {Lada A. Adamic and Thomas M. Lento and Andrew T. Fiore},
+  title = {How you met me},
+  year = {2012},
+  note = {ICWSM' short paper}
+}
+@MISC { the-role-of-social-n,
+  author = {Eytan Bakshy and Itamar Rosenn and Cameron Marlow and Lada A. Adamic},
+  title = {The Role of Social Networks in Information Diffusion},
+  year = {2012},
+  note = {WWW}
+}
+@MISC { recipe-recommendatio,
+  author = {Chun-Yuen Teng and Yu-Ru Lin and Lada A. Adamic},
+  title = {Recipe recommendation using ingredient networks},
+  year = {2011},
+  note = {WebSci}
+}
+@MISC { group-membership-and,
+  author = {David A. Huffaker and Chun-Yuen Teng and Matthew P. Simmons and Liuling Gong and Lada A. Adamic},
+  title = {Group Membership and Diffusion in Virtual Worlds},
+  year = {2011},
+  note = {IEEE SocialCom}
+}
+@MISC { coevolution-of-netwo,
+  author = {Liuling Gong and Chun-Yuen Teng and Avishay Livne and Celso Brunneti and Lada Adamic},
+  title = {Coevolution of network structure and content},
+  year = {2011},
+  note = {WebSci}
+}
+@MISC { limiting-the-spread-,
+  author = {Umanka Karkada and Lada Adamic and Jeremy Kahn and Theodore Iwashyna},
+  title = {Limiting the Spread of Highly Resistant Hospital Acquired Microorganisms Via Critical Care Transfers: A Simulation Study},
+  year = {2011},
+  note = {Int Care Med ; 37(10): 1633-1640}
+}
+@MISC { memes-online--extrac,
+  author = {Matthew P. Simmons and Lada A. Adamic and Eytan Adar},
+  title = {Memes Online: Extracted, Subtracted, Injected, and Recollected},
+  year = {2011},
+  note = {ICWSM}
+}
+@MISC { rating-friends-witho,
+  author = {Lada A. Adamic and Debra Lauterbach and Chun-Yuen Teng and Mark S. Ackerman},
+  title = {Rating Friends Without Making Enemies},
+  year = {2011},
+  note = {ICWSM}
+}
+@MISC { the-party-is-over-he,
+  author = {Avishay Livne and Matthew P. Simmons and Eytan Adar and Lada A. Adamic},
+  title = {The Party is Over Here: Structure and Content in the 2010 Election},
+  year = {2011},
+  note = {ICWSM}
+}
+@MISC { culture-matters--a-s,
+  author = {Jiang Yang and Meredith Ringel Morris and Jaime Teevan and Lada A. Adamic and Mark S. Ackerman},
+  title = {Culture Matters: A Survey Study of Social Q&A Behavior},
+  year = {2011},
+  note = {ICWSM}
+}
+@MISC { virtual-gifts-and-gu,
+  author = {Yang, Jiang and Ackerman Mark S and Adamic Lada A},
+  title = {Virtual Gifts and Guanxi Supporting Social Exchange in a Chinese Online Community},
+  year = {2011},
+  note = {CSCW, (2011); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Yang; rft.aufirst=Jiang}
+}
+@MISC { seller-activity-in-a,
+  author = {Huffaker, David A and Simmons Matthew and Bakshy Eytan and Adamic Lada A},
+  title = {Seller activity in a virtual marketplace},
+  year = {2010},
+  note = {First Monday, 07/2010, Volume 15, Issue 7, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=15; rft.issue=7; rft.aulast=Huffaker; rft.aufirst=David}
+}
+@MISC { i-rate-you--you-rate,
+  author = {Teng, Chun-Yuen and Lauterbach Debra and Adamic Lada A},
+  title = {I rate you. You rate me. Should we do so publicly },
+  year = {2010},
+  note = {06/2010, WOSN, Boston, MA, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Teng; rft.aufirst=Chun-Yuen; rft.place=WOSN%2C+Boston%2C+MA}
+}
+@MISC { activity-lifespan-an,
+  author = {Yang, Jiang and Wei Xiao and Ackerman Mark S and Adamic Lada A},
+  title = {Activity Lifespan An Analysis of User Survival Patterns in Online Knowledge Sharing Communities},
+  year = {2010},
+  note = {05/2010, Washington, D.C, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Yang; rft.aufirst=Jiang; rft.pub=4th+Int%26%23039%3Bl+AAAI+Conference+on+Weblogs+and+Social+Media; rft.place=Washington%2C+D.C}
+}
+@MISC { longevity-in-second-,
+  author = {Teng, Chun-Yuen and Adamic Lada A},
+  title = {Longevity in Second Life},
+  year = {2010},
+  note = {05/2010, ICWSM, Washington D.C., (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Teng; rft.aufirst=Chun-Yuen; rft.place=ICWSM%2C+Washington+D.C}
+}
+@MISC { the-social-dynamics-,
+  author = {Bakshy, Eytan and Simmons Matthew P and Huffaker David A and Teng Chun-Yuen and Adamic Lada A},
+  title = {The Social Dynamics of Economic Activity in a VirtualWorld},
+  year = {2010},
+  note = {ICWSM, Washington, D.C. , (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.series=ICWSM; rft.aulast=Bakshy; rft.aufirst=Eytan; rft.place=ICWSM%2C+Washington%2C+D.C}
+}
+@MISC { diffusion-dynamics-o,
+  author = {Wei, Xiao and Yang Jiang and Adamic Lada A and de Araújo Ricardo Matsumura and Rekhi Manu},
+  title = {Diffusion dynamics of games on online social networks},
+  year = {2010},
+  note = {WOSN, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rft.aulast=Wei; rft.aufirst=Xiao}
+}
+@MISC { individual-focus-and,
+  author = {Adamic, Lada A and Wei Xiao and Yang Jiang and Gerrish Sean and Nam Kevin K and Clarkson Gavin S},
+  title = {Individual focus and knowledge contribution},
+  year = {2010},
+  note = {First Monday, 03/2010, Volume 15, Issue 3, (2010); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=15; rft.issue=3; rft.aulast=Adamic; rft.aufirst=Lada}
+}
+@MISC { the-impact-of-bounda,
+  author = {Shi, Xiaolin and Adamic Lada A and Tseng Belle L and Clarkson Gavin S},
+  title = {The Impact of Boundary Spanning Scholarly Publications and Patents},
+  year = {2009},
+  note = {PLoS ONE, 08/2009, Volume 4, Issue 8, p.e6547, (2009); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal; rft.volume=4; rft.issue=8; rft.spage=e6547; rft.aulast=Shi; rft.aufirst=Xiaolin; rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0006547}
+}
+@MISC { questions-in-knowled,
+  author = {Nam, Kevin K and Ackerman Mark S and Adamic Lada A},
+  title = {Questions in Knowledge iN A Study of Naver s Question Answering Community},
+  year = {2009},
+  note = {CHI'09, 09/2008, Boston, MA, (2009); ctx_ver=Z39.88-2004; rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc; rfr_id=info%3Asid%2Fbibsi6.cms.si.umich.edu; rft.aulast=Nam; rft.aufirst=Kevin; rft.au=Nam%2C+Kevin; rft.au=Ackerman%2C+Mark; rft.au=Adamic%2C+Lada; rft.place=Boston%2C+MA; rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdoi.acm.org%2F10.1145%2F1518701.1518821}
+}

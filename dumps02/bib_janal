@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibteXML.dtd">
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="abstract-interpretat">
+  <bibtex:masterthesis>
+    <bibtex:author>Jan Alexandersson</bibtex:author>
+    <bibtex:title>Abstract Interpretation of Logic Programs with External Functions - an Implementation</bibtex:title>
+    <bibtex:school>Linköping University</bibtex:school>
+    <bibtex:year>1993</bibtex:year>
+    <bibtex:note>Master thesis, , Sweden, August</bibtex:note>
+  </bibtex:masterthesis>
+</bibtex:entry>
+<bibtex:entry id="hybrid-discourse-mod">
+  <bibtex:phdthesis>
+    <bibtex:author>Jan Alexandersson</bibtex:author>
+    <bibtex:title>Hybrid Discourse Modelling and Summarization for a Speech-to-Speech Translation System</bibtex:title>
+    <bibtex:school>Universtität des Saarlandes</bibtex:school>
+    <bibtex:year>2003</bibtex:year>
+    <bibtex:note>Phd thesis, , Germany, December</bibtex:note>
+  </bibtex:phdthesis>
+</bibtex:entry>
+<bibtex:entry id="modeling-non-verbal-">
+  <bibtex:article>
+    <bibtex:author>Norbert Pfleger; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Modeling Non-Verbal Behavior in Multimodal Conversational Systems</bibtex:title>
+    <bibtex:journal>it - Information Technology</bibtex:journal>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>Special Issue on &quot;Conversational User Interfaces&quot;, volume 46, issue 6,, pp 341--345</bibtex:note>
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="i-home---towards-a-u">
+  <bibtex:article>
+    <bibtex:author>Jan Alexandersson</bibtex:author>
+    <bibtex:title>i2home - Towards a Universal Home Environment for Elderly and Disabled</bibtex:title>
+    <bibtex:journal>KI</bibtex:journal>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Special issue on Cognition</bibtex:note>
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="connectivity-for-hea">
+  <bibtex:article>
+    <bibtex:author>Kamel Boulos MN; Lou RC; Anastasiou</bibtex:author>
+    <bibtex:title>Connectivity for healthcare and well-being management: examples from six European projects</bibtex:title>
+    <bibtex:journal>International Journal of Environmental Research and Public Health</bibtex:journal>
+    <bibtex:year>1947</bibtex:year>
+    <bibtex:note>2009 Jul;6(7):-71</bibtex:note>
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="bringing-the-elderly">
+  <bibtex:article>
+    <bibtex:author>Ingo Zinnikus; Klaus Fischer; Jan Alexandersson; Unai Diaz</bibtex:author>
+    <bibtex:title>Bringing the Elderly Into the Mainstream of E-Society: The VITAL Project</bibtex:title>
+    <bibtex:journal>IADIS International Journal on WWW/Internet</bibtex:journal>
+    <bibtex:year>1645</bibtex:year>
+    <bibtex:note>Vol. 7, No. 1/2010, pp. 118-135. ISSN:-7641</bibtex:note>
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="synchronized-realiti">
+  <bibtex:article>
+    <bibtex:author>Christoph Stahl; Jochen Frey; Jan Alexandersson; Boris Brandherm</bibtex:author>
+    <bibtex:title>Synchronized Realities</bibtex:title>
+    <bibtex:journal>Journal of Ambient Intelligence and Smart Environments (JAISE)</bibtex:journal>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Number 1, January</bibtex:note>
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="universal-remote-con">
+  <bibtex:article>
+    <bibtex:author>Gorka Epelde; Eduardo Carrasco; Gottfried Zimmermann; Jan Alexandersson; Robert Neßelrath</bibtex:author>
+    <bibtex:title>Universal Remote Console-based next-generation accessible television</bibtex:title>
+    <bibtex:journal>Universal Access in the Information Society</bibtex:journal>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>pages 1--15,</bibtex:note>
+  </bibtex:article>
+</bibtex:entry>
+<bibtex:entry id="w--wahlster--ed----v">
+  <bibtex:inbook>
+    <bibtex:author>Jan Alexandersson; Ralf Engel; Michael Kipp; Stephan Koch; Uwe Küssner; Norbert Reithinger; Manfred Stede</bibtex:author>
+    <bibtex:title>W. Wahlster (ed.): Verbmobil: Foundations of Speech-to-Speech Translation</bibtex:title>
+    <bibtex:chapter>Dialog Processing and Context Evaluation Modeling Negotiation Dialogs</bibtex:chapter>
+    <bibtex:publisher>Berlin/Heidelberg/New York: Springer-Verlag</bibtex:publisher>
+    <bibtex:year>2000</bibtex:year>
+    <bibtex:note>In, ()pp. 443--453)</bibtex:note>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="w--wahlster--ed----v">
+  <bibtex:inbook>
+    <bibtex:author>Michael Kipp; Jan Alexandersson; Ralf Engel; Norbert Reithinger</bibtex:author>
+    <bibtex:title>W. Wahlster (ed.): Verbmobil: Foundations of Speech-to-Speech Translation</bibtex:title>
+    <bibtex:chapter>Dialog Processing</bibtex:chapter>
+    <bibtex:publisher>Berlin/Heidelberg/New York: Springer-Verlag</bibtex:publisher>
+    <bibtex:year>2000</bibtex:year>
+    <bibtex:note>In, ()pp. 454--467)</bibtex:note>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="verbmobil--foundatio">
+  <bibtex:inbook>
+    <bibtex:author>Jan Alexandersson; Peter Poller; Michael Kipp</bibtex:author>
+    <bibtex:title>Verbmobil: Foundations of Speech-to-Speech Translation</bibtex:title>
+    <bibtex:chapter>Generating Multilingual Dialog Summaries and Minutes</bibtex:chapter>
+    <bibtex:publisher>Berlin/Heidelberg/New York: Springer</bibtex:publisher>
+    <bibtex:year>2000</bibtex:year>
+    <bibtex:note>In: W. Wahlster (Ed.), pp. 509--520)</bibtex:note>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="smartkom---foundatio">
+  <bibtex:inbook>
+    <bibtex:author>Jan Alexandersson; Norbert Pfleger</bibtex:author>
+    <bibtex:title>SmartKom - Foundations of Multimodal Dialogue Systems</bibtex:title>
+    <bibtex:chapter>Discourse Modeling</bibtex:chapter>
+    <bibtex:publisher>Berlin/Heidelberg/New York: Springer-Verlag</bibtex:publisher>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>In: W. Wahlster (Ed.), ()pp. 237--254)</bibtex:note>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="smartkom---foundatio">
+  <bibtex:inbook>
+    <bibtex:author>Jan Alexandersson; Tilman Becker; Norbert Pfleger</bibtex:author>
+    <bibtex:title>SmartKom - Foundations of Multimodal Dialogue Systems</bibtex:title>
+    <bibtex:chapter>Overlay</bibtex:chapter>
+    <bibtex:publisher>Berlin/Heidelberg/New York: Springer-Verlag</bibtex:publisher>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>In: W. Wahlster (Ed.), ()pp. 255--268)</bibtex:note>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="computing-meaning">
+  <bibtex:inbook>
+    <bibtex:author>Jan Alexandersson; Tilman Becker</bibtex:author>
+    <bibtex:title>Computing Meaning</bibtex:title>
+    <bibtex:chapter>Efficient Computation of Overlay for Multiple Inheritance Hierarchies in Discourse Modeling</bibtex:chapter>
+    <bibtex:publisher>Dordrecht: Kluwer</bibtex:publisher>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>()in Harry Bunt and Reinhard Muskens (Ed.)Vol. 3, (pp. 423--455). . Studies in Linguistics and Philosophy. (Abstract</bibtex:note>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="intelligent-technolo">
+  <bibtex:inbook>
+    <bibtex:author>Zimmermann; G.; Alexandersson; J.; Buiza; C.; Urdaneta; E.; Diaz; U.; Carrasco; E.; Klima; M.</bibtex:author>
+    <bibtex:title>Intelligent Technologies for the Aged - The Grey Digital Divide</bibtex:title>
+    <bibtex:chapter>Meeting the Needs of Diverse User Groups: Benefits and Costs of Pluggable User Interfaces in Designing for Older People and People with Cognitive Impairment</bibtex:chapter>
+    <bibtex:publisher>Soar, J. &amp; Swindell, R</bibtex:publisher>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>&amp; Pfalzgraf, A. s. To appear in</bibtex:note>
+  </bibtex:inbook>
+</bibtex:entry>
+<bibtex:entry id="a-robust-and-efficie">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Elisabeth Maier; Norbert Reithinger</bibtex:author>
+    <bibtex:title>A Robust and Efficient Three-Layered Dialog Component for a Speech-to-Speech Translation System</bibtex:title>
+    <bibtex:booktitle>Proceedings of the 7th Conference of the European Chapter of the ACL (EACL-95)</bibtex:booktitle>
+    <bibtex:year>1994</bibtex:year>
+    <bibtex:note>Dublin, Ireland, March 1995. Also available as Verbmobil Report Nr. 50, DFKI GmbH, December</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="insights-into-the-di">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Norbert Reithinger; Elisabeth Maier</bibtex:author>
+    <bibtex:title>Insights into the Dialogue Processing of VERBMOBIL</bibtex:title>
+    <bibtex:booktitle>Proceedings of the Fifth Conference on Applied Natural Language Processing ANLP-97</bibtex:booktitle>
+    <bibtex:year>1997</bibtex:year>
+    <bibtex:note>pp. 33--40), Washington DC,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="multilingual-summary">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Peter Poller; Michael Kipp; Ralf Engel</bibtex:author>
+    <bibtex:title>Multilingual Summary Generation in a Speech--To--Speech Translation System for Multilingual Dialogues</bibtex:title>
+    <bibtex:booktitle>Proceedings of the International Natural Language Generation Conference 2000 (INLG-2000)</bibtex:booktitle>
+    <bibtex:year>2000</bibtex:year>
+    <bibtex:note>pp. 148--155). Mitzpe Ramon, Israel, June</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="summarizing-multilin">
+  <bibtex:conference>
+    <bibtex:author>Norbert Reithinger; Michael Kipp; Ralf Engel; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Summarizing Multilingual Spoken Negotiation Dialogues</bibtex:title>
+    <bibtex:booktitle>Proceedings of ACl-2000</bibtex:booktitle>
+    <bibtex:year>2000</bibtex:year>
+    <bibtex:note>pp. 310--317). Hong Kong, October,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="an-unsupervised-sema">
+  <bibtex:conference>
+    <bibtex:author>Paul Buitelaar; Jan Alexandersson; Tilman Jaeger; Stephan Lesch; Norbert Pfleger; Diana Raileanu; Tanja</bibtex:author>
+    <bibtex:title>An Unsupervised Semantic Tagger Applied to German</bibtex:title>
+    <bibtex:booktitle>Proceedings of Recent Advances in NLP 2001 (RANLP)</bibtex:booktitle>
+    <bibtex:year>2001</bibtex:year>
+    <bibtex:note>pp. 52--57). Tzigov Chark, Bulgaria, 5-7 September,Abstract</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="scoring-functions-fo">
+  <bibtex:conference>
+    <bibtex:author>Norbert Pfleger; Jan Alexandersson; Tilman Becker</bibtex:author>
+    <bibtex:title>Scoring Functions for Overlay and their Application in Discourse Processing</bibtex:title>
+    <bibtex:booktitle>Proceedings of KONVENS 2002</bibtex:booktitle>
+    <bibtex:year>2002</bibtex:year>
+    <bibtex:note>In(pp. 139--146), Saarbrücken, Germany, September 30 - October 2,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="smartkom---adaptive-">
+  <bibtex:conference>
+    <bibtex:author>Norbert Reithinger; Jan Alexandersson; Tilman Becker; Anselm Blocher; Ralf Engel; Markus Löckelt; Jochen Müller; Norbert Pfleger; Peter Poller; Michael Streit; Valentin Tschernomas</bibtex:author>
+    <bibtex:title>SmartKom - Adaptive and Flexible Multimodal Access to Multiple Applications</bibtex:title>
+    <bibtex:booktitle>Proceedings of ICMI 2003</bibtex:booktitle>
+    <bibtex:year>2003</bibtex:year>
+    <bibtex:note>Vancouver, B.C., November 5-7,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="scoring-for-overlay-">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Tilman Becker; Norbert Pfleger</bibtex:author>
+    <bibtex:title>Scoring for Overlay based on Informational Distance</bibtex:title>
+    <bibtex:booktitle>Proceedings of KONVENS 2004</bibtex:booktitle>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>pp. 1--4), Vienna, Austria, September 14 - 17,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="i-home--benutzerzent">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Kai Richter; Stephanie Becker</bibtex:author>
+    <bibtex:title>I2HOME: Benutzerzentrierte Entwicklung einer offenen standardbasierten Smart Home Plattform</bibtex:title>
+    <bibtex:booktitle>USEWARE 2006</bibtex:booktitle>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>In German</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="user-interfaces-for-">
+  <bibtex:conference>
+    <bibtex:author>Martin Klima; Miroslav Macik; Elena Urdaneta; Cristina Buiza; Eduardo Carrasco; Gorka Epelde; Jan Alexandersson</bibtex:author>
+    <bibtex:title>User Interfaces for the Digital Home on the basis of Open Industrial Standards</bibtex:title>
+    <bibtex:booktitle>AMIF 2008</bibtex:booktitle>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Hradec Králové, Czech Republic, October, 15-16</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="homogeneous-multimod">
+  <bibtex:conference>
+    <bibtex:author>Robert Nesselrath; Christian Schulz; Jan Schehl; Alexander Pfalzgraph; Norbert Pfleger; Verena Stein; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Homogeneous Multimodal Access to the Digital Home for People with Cognitive Disabilities</bibtex:title>
+    <bibtex:booktitle>Proceedings of Ambient Assisted Living - AAL. 2. Deutscher Kongress mit Ausstellung/Technologien - Anwendungen - Management</bibtex:booktitle>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>pp. ) Berlin, Germany,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="user-interfaces-for-">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Gottfried Zimmermann; Jürgen Bund</bibtex:author>
+    <bibtex:title>User Interfaces for AAL: How Can I Satisfy All Users?</bibtex:title>
+    <bibtex:booktitle>Proceedings of Ambient Assisted Living - AAL. 2. Deutscher Kongress mit Ausstellung/Technologien - Anwendungen - Management</bibtex:booktitle>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>pp. 5--9) Berlin, Germany,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="bringing-the-elderly">
+  <bibtex:conference>
+    <bibtex:author>Ingo Zinnikus; Klaus Fischer; Jan Alexandersson; Unai Diaz</bibtex:author>
+    <bibtex:title>Bringing the elderly into the mainstream of e-Society: the VITAL Project</bibtex:title>
+    <bibtex:booktitle>IADI e-Society Conference</bibtex:booktitle>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Barcelona, Spain. (Outstanding paper award</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="well-formed-unificat">
+  <bibtex:conference>
+    <bibtex:author>Christian Schulz; Jan Alexandersson; Tilman Becker</bibtex:author>
+    <bibtex:title>Well-formed Unification in Non-deterministic Multiple Inheritance Hierarchies</bibtex:title>
+    <bibtex:booktitle>Proceedings of the Eigths International Conference on Computational Semantics (IWCS-8)&apos;&apos;</bibtex:booktitle>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Tilburg, The Netherlands,, Pages XX--YY</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="urc-based-accessible">
+  <bibtex:conference>
+    <bibtex:author>Gorka Epelde; Eduardo Carrasco; Gottfried Zimmermann; Juergen Bund; Markus Dubielzig; Jan Alexandersson</bibtex:author>
+    <bibtex:title>URC-Based Accessible TV</bibtex:title>
+    <bibtex:booktitle>Proceedings of EUROITV2009</bibtex:booktitle>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Leuven, Belgium,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="towards-an-iso-stand">
+  <bibtex:conference>
+    <bibtex:author>Harry Bunt; Jan Alexandersson; Jean Carletta; Jae-Woong Choe; Alex Chengyu Fang; Koiti Hasida; Kiyong Lee; Volha Petukhova; Andrei Popescu; Claudia Soria; David Traum</bibtex:author>
+    <bibtex:title>Towards an ISO standard for dialogue act annotation</bibtex:title>
+    <bibtex:booktitle>7th International Conference on Language Resources and Evaluation - LREC 2010</bibtex:booktitle>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Malta, May 19--21,, Pages XX--YY</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="improving-spelling-s">
+  <bibtex:conference>
+    <bibtex:author>Verena Stein; Robert Nesselrath; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Improving Spelling Skills for blind language learners - Orthographic Feedback in an Auditory Vocabulary Trainer</bibtex:title>
+    <bibtex:booktitle>Proceedings of the 2nd International Conference on Computer Supported Education</bibtex:booktitle>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>International Conference on Computer Supported Education (CSEDU-10), located at in conjunction with WEBIST, April 7-10, Valencia, Spain. Pages XX--YY</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="openurc--standardisa">
+  <bibtex:conference>
+    <bibtex:author>Jürgen Bund; Gregg Vanderheiden; Gottfried Zimmermann; Ingo Zinnikus; Jan Alexandersson; Martin Klima; Eduardo Carrasco; Gorka Epelde; Elena Urdaneta</bibtex:author>
+    <bibtex:title>openURC: standardisation towards &quot;User Interfaces for Everyone, Everywhere, on Anything</bibtex:title>
+    <bibtex:booktitle>Proceedings of 1st International AEGIS Conference</bibtex:booktitle>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>University of Seville, Spain, 7-8 October. pp. ???</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="the-dfki-competence-">
+  <bibtex:conference>
+    <bibtex:author>Jochen Frey; Christoph Stahl; Thomas Röfer; Bernd Krieg-Brückner; Jan Alexandersson</bibtex:author>
+    <bibtex:title>The DFKI Competence Center for Ambient Assisted Living</bibtex:title>
+    <bibtex:booktitle>Proceedings of First International Joint Conference on Ambient Intelligence November 10-12 2010</bibtex:booktitle>
+    <bibtex:year>2014</bibtex:year>
+    <bibtex:note>Malaga, Spain. pp. 310--3</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="standardization-towa">
+  <bibtex:conference>
+    <bibtex:author>J. Alexandersson; I. Zinnikus; J. Bund; E. Carrasco; G. Epelde; M. Klima; E. Urdaneta; G. Vanderheiden; G. Zimmermann; OpenURC</bibtex:author>
+    <bibtex:title>Standardization towards User Interfaces for Everyone</bibtex:title>
+    <bibtex:booktitle>Ambient Assisted Living</bibtex:booktitle>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Everywhere, on Anything. In Reiner Wichert and Birgid Eberhardt (Ed.):4. AAL-Kongress 2011, Berlin, Germany, January 25-26,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="for-context-sensitiv">
+  <bibtex:conference>
+    <bibtex:author>Robert Nesselrath; Chensheng Lu; Christian H. Schulz; Jochen Frey; J. Alexandersson; A Gesture Based System</bibtex:author>
+    <bibtex:title>for Context-Sensitive Interaction with Smart Homes</bibtex:title>
+    <bibtex:booktitle>Ambient Assisted Living</bibtex:booktitle>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>In Reiner Wichert and Birgid Eberhardt (Ed.):4. AAL-Kongress 2011, Berlin, Germany, January 25-26,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="aal-summit-----">
+  <bibtex:conference>
+    <bibtex:author>Epelde; G.; Carrasco; E.; Rajasekharan; S.; Zimmermann; G. Alexandersson; J.; Bund; J.</bibtex:author>
+    <bibtex:title>AAL Summit 2012</bibtex:title>
+    <bibtex:booktitle>June 27-29</bibtex:booktitle>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:note>2012, Bilbao, Spain, &amp; Vanderheiden, G. (Jun.). Open Standards Based Public Procurement Policy For Large Market Uptake And New Entrants Barrier Lowering. In: Proceedings of the</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="proceedings-of-lrec-">
+  <bibtex:conference>
+    <bibtex:author>Bunt H.; Alexandersson J.; Choe J.-W.; Fang A.C.; Hasida K.; Petukhova V.; Popescu-Belis A.; Soria C.</bibtex:author>
+    <bibtex:title>Proceedings of LREC 2012 (8th International Conference on Language Resources and Evaluation), Istanbul</bibtex:title>
+    <bibtex:booktitle>p</bibtex:booktitle>
+    <bibtex:year>2461</bibtex:year>
+    <bibtex:note>430-437, &amp; Traum D. (2012) - ISO7-2: A Semantically-Based Standard for Dialogue Annotation</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="plan-recognition-in-">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson</bibtex:author>
+    <bibtex:title>Plan Recognition in Verbmobil</bibtex:title>
+    <bibtex:booktitle>Proceedings of the IJCAI-95 Workshop ``The Next Generation of Plan Recognition Systems: Challenges for and Insight from Related Areas of AI</bibtex:booktitle>
+    <bibtex:year>1995</bibtex:year>
+    <bibtex:note>Montreal, Canada, August 1995. Also available as Verbmobil Report Nr. 81, DFKI GmbH, April</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="treatment-of-incompl">
+  <bibtex:conference>
+    <bibtex:author>Norbert Reithinger; Elisabeth Maier; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Treatment of Incomplete Dialogs in a Speech-to-Speech Translation System</bibtex:title>
+    <bibtex:booktitle>Proceedings of the ESCA Research Workshop on Spoken Dialogue Systems</bibtex:booktitle>
+    <bibtex:year>1995</bibtex:year>
+    <bibtex:note>Vigs\o, Denmark, May 1995. Also available as Verbmobil Report Nr. 79, DFKI GmbH, April</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="designing-the-dialog">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Norbert Reithinger</bibtex:author>
+    <bibtex:title>Designing the Dialogue Component in a Speech Translation System -- a Corpus Based Approach</bibtex:title>
+    <bibtex:booktitle>Proceedings of the 9th Twente Workshop on Language Technology (Corpus Based Approaches to Dialogue Modelling</bibtex:booktitle>
+    <bibtex:year>1995</bibtex:year>
+    <bibtex:note>Twente, Holland,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="some-ideas-for-the-a">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson</bibtex:author>
+    <bibtex:title>Some ideas for the automatic aquisition of Dialogue Structure</bibtex:title>
+    <bibtex:booktitle>Proceedings of the Eleventh Twente Workshop on Language Technology, TWLT, Dialogue Management in Natural Language Systems</bibtex:booktitle>
+    <bibtex:year>1996</bibtex:year>
+    <bibtex:note>June 19-21,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="word-lattice-parsing">
+  <bibtex:conference>
+    <bibtex:author>Joachim Quantz; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Word-Lattice Parsing Based on Heterogeneous Information Sources</bibtex:title>
+    <bibtex:booktitle>Proceedings of the ECAI-96 Workshop ``Corpus_Oriented Semantic Analysis</bibtex:booktitle>
+    <bibtex:year>1996</bibtex:year>
+    <bibtex:note>Budapest, Hungary, August</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="clarification-dialog">
+  <bibtex:conference>
+    <bibtex:author>Elisabeth Maier; Norbert Reithinger; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Clarification Dialogues as Measure to Increase Robustness in a Spoken Dialogue System</bibtex:title>
+    <bibtex:booktitle>Proceedings of the ACL-97 Workshop ``Interactive Spoken Dialog Systems: Bringing Speech and NLP Together in Real Applications</bibtex:booktitle>
+    <bibtex:year>1997</bibtex:year>
+    <bibtex:note>Universidad Nacional de Educacion a Distancia Madrid, Spain, July 11 and 12th,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="towards-multilingual">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Peter Poller</bibtex:author>
+    <bibtex:title>Towards Multilingual Protocol Generation For Spontaneous Speech Dialogues</bibtex:title>
+    <bibtex:booktitle>Proceedings of the International Workshop on Natural Language Generation 1998 (INLG-98)</bibtex:booktitle>
+    <bibtex:year>1998</bibtex:year>
+    <bibtex:note>pp. 198--207), Niagara-On-The-Lake, Canada, August</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="understanding-sponta">
+  <bibtex:conference>
+    <bibtex:author>Michael Kipp; Jan Alexandersson; Norbert Reithinger</bibtex:author>
+    <bibtex:title>Understanding Spontaneous Negotiation Dialogue</bibtex:title>
+    <bibtex:booktitle>Proceedings of the IJCAI Workshop ``Knowledge and Reasoning in Practical Dialogue Systems</bibtex:booktitle>
+    <bibtex:year>1999</bibtex:year>
+    <bibtex:note>Stockholm, Sweden, August</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="tracking-morphologic">
+  <bibtex:conference>
+    <bibtex:author>Mark Seligman; Jan Alexandersson; Kristiina Jokinen</bibtex:author>
+    <bibtex:title>Tracking Morphological and Semantic Co-occurrences in Spontaneous Dialogues</bibtex:title>
+    <bibtex:booktitle>Proceedings of the IJCAI Workshop ``Knowledge and Reasoning in Practical Dialogue Systems</bibtex:booktitle>
+    <bibtex:year>1999</bibtex:year>
+    <bibtex:note>Stockholm, Sweden, August</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="some-notes-on-the-co">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Paul Heisterkamp</bibtex:author>
+    <bibtex:title>Some Notes on the Complexity of Dialogues (ps)</bibtex:title>
+    <bibtex:booktitle>Proceedings of the ACL 2000 Workshop ``1st SIGdial Workshop on Discourse and Dialogue</bibtex:booktitle>
+    <bibtex:year>2000</bibtex:year>
+    <bibtex:note>Laila Dybkjaer, Koiti Hasida and David Traum (eds.)Hong Kong, October</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="overlay-as-the-basic">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Tilman Becker</bibtex:author>
+    <bibtex:title>Overlay as the Basic Operation for Discourse Processing in a Multimodal Dialogue System</bibtex:title>
+    <bibtex:booktitle>Proceedings of the IJCAI Workshop ``Knowledge and Reasoning in Practical Dialogue Systems</bibtex:booktitle>
+    <bibtex:year>2001</bibtex:year>
+    <bibtex:note>Seattle,, Pages 8-14</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="making-sense-of-part">
+  <bibtex:conference>
+    <bibtex:author>Markus Loeckelt; Tilman Becker; Norbert Pfleger; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Making Sense of Partial</bibtex:title>
+    <bibtex:booktitle>Proceedings of the sixth workshop on the semantics and pragmatics of dialogue (EDILOG 2002)</bibtex:booktitle>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Bos, Foster &amp; Matheson (eds)(ps)Edinburgh, UK, Pages 101-7</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="the-formal-foundatio">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Tilman Becker</bibtex:author>
+    <bibtex:title>The Formal Foundations Underlying Overlay</bibtex:title>
+    <bibtex:booktitle>Proceedings of the Fifth International Workshop on Computational Semantics (IWCS-5)</bibtex:booktitle>
+    <bibtex:year>2003</bibtex:year>
+    <bibtex:note>Tilburg, The Netherlands,, Pages 22-36</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="less-is-more--using-">
+  <bibtex:conference>
+    <bibtex:author>Iryna Gurevych; Robert Porzel; Elena Slinko; Norbert Pfleger; Jan Alexandersson; Stefan Merten</bibtex:author>
+    <bibtex:title>Less is More: Using a Single Knowledge Representation in Dialogue Systems</bibtex:title>
+    <bibtex:booktitle>Proceedings of the HLT-NAACL WS on Text Meaning</bibtex:booktitle>
+    <bibtex:year>2003</bibtex:year>
+    <bibtex:note>Edmonton, Canada, May 31,, p. 14-21</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="a-robust-and-generic">
+  <bibtex:conference>
+    <bibtex:author>Norbert Pfleger; Jan Alexandersson; Tilman Becker</bibtex:author>
+    <bibtex:title>A Robust and Generic Discourse Model for Multimodal Dialogue</bibtex:title>
+    <bibtex:booktitle>Workshop Notes of the IJCAI-03 Workshop on ``Knowledge and Reasoning in Practical Dialogue Systems</bibtex:booktitle>
+    <bibtex:year>2003</bibtex:year>
+    <bibtex:note>Acapulco, Mexico, August,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="more-on-less--furthe">
+  <bibtex:conference>
+    <bibtex:author>Porzel; R.; Pfleger N.; Merten; S.; Loeckelt M.; Gurevych; I.; Engel; R.; Alexandersson; J.</bibtex:author>
+    <bibtex:title>More on Less: Further Applications of Ontologies in Multi-Modal Dialogue Systems</bibtex:title>
+    <bibtex:booktitle>Workshop Notes of the IJCAI-03 Workshop on ``Knowledge and Reasoning in Practical Dialogue Systems</bibtex:booktitle>
+    <bibtex:year>2003</bibtex:year>
+    <bibtex:note>Acapulco, Mexico, August,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="robust-multimodal-di">
+  <bibtex:conference>
+    <bibtex:author>Norbert Pfleger; Ralf Engel; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Robust Multimodal Discourse Processing</bibtex:title>
+    <bibtex:booktitle>Proceedings of Diabruck: 7th Workshop on the Semantics and Pragmatics of Dialogue</bibtex:booktitle>
+    <bibtex:year>2003</bibtex:year>
+    <bibtex:note>Wallerfangen, Germany, September, 4-6 ,, p. 107-114</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="ends-based-dialogue-">
+  <bibtex:conference>
+    <bibtex:author>Jan Alexandersson; Tilman Becker; Ralf Engel; Markus Löckelt; Elsa Pecourt; Peter Poller; Norbert Pfleger Norbert Reithinger</bibtex:author>
+    <bibtex:title>Ends-based Dialogue Processing</bibtex:title>
+    <bibtex:booktitle>Proceedings of the 2nd Workshop on Scalable Natural Language Understanding (ScaNaLu)</bibtex:booktitle>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>inBoston, MA, May 6,, pp. X-Y</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="a-spoken-language-fr">
+  <bibtex:conference>
+    <bibtex:author>Christian H. Schulz; Dmitri Rubinstein; Dimitris Diamantakos; Michael Kaisser; Jan Schehl; Massimo Romanelli; Thomas Kleinbauer; Andreas Klüter; Dietrich Klakow; Tilman Becker; Jan Alexandersson</bibtex:author>
+    <bibtex:title>A Spoken Language Front-end for a Multilingual Music Data Base</bibtex:title>
+    <bibtex:booktitle>Proceedings of Dialog Systems based on XML Technologies</bibtex:booktitle>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>Berlin, Germany, October, 13,, pp. X-Y</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="on-plurals-for-overl">
+  <bibtex:conference>
+    <bibtex:author>Massimo Romanelli; Tilman Becker; Jan Alexandersson</bibtex:author>
+    <bibtex:title>On Plurals for Overlay</bibtex:title>
+    <bibtex:booktitle>Proceedings of 9th Workshop on the semantics and pragmatics of dialogue (Dialor) Nancy, June 9-11 2005</bibtex:booktitle>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:note>in</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="towards-a-decent-rec">
+  <bibtex:conference>
+    <bibtex:author>Stephan Lesch; Thomas Kleinbauer; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Towards a Decent Recognition Rate for the Automatic Classification of a Multidimensional Dialogue Act Tagset</bibtex:title>
+    <bibtex:booktitle>Workshop notes of 4th IJCAI Workshop on Knowledge and Reasoning in Practical Dialogue Systems, Edinburgh, August 1 2005</bibtex:booktitle>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:note>pp 46--53</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="towards-resolving-re">
+  <bibtex:conference>
+    <bibtex:author>Norbert Pfleger; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Towards Resolving Referring Expression by Implicitly Activated Referents in Practical Dialogue Systems</bibtex:title>
+    <bibtex:booktitle>the Proceedings of the 10th Workshop on the Semantics and Pragmatics of Dialogue - BRANDIAL06, Potsdam, Germany, September, 11--13 2006</bibtex:booktitle>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>pp 2--9</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="a-comprehensive-disf">
+  <bibtex:conference>
+    <bibtex:author>Jana Besser; Jan Alexandersson</bibtex:author>
+    <bibtex:title>A Comprehensive Disfluency Model for Multi-Party Interaction</bibtex:title>
+    <bibtex:booktitle>Proceedings of the &apos;&apos;8st SIGdial Workshop on Discourse and Dialogue</bibtex:booktitle>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Antwerp, Belgium, September, pp 182--189</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="a--d-gesture-recogni">
+  <bibtex:conference>
+    <bibtex:author>Robert Nesselrath; Jan Alexandersson</bibtex:author>
+    <bibtex:title>A 3D Gesture Recognition System for Multimodal Dialog Systems</bibtex:title>
+    <bibtex:booktitle>Proceedings of the sixth IJCAI Workshop ``Knowledge and Reasoning in Practical Dialogue Systems</bibtex:booktitle>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Pasadena, CA, July,. pp 46--51</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="universally-accessib">
+  <bibtex:conference>
+    <bibtex:author>Ane Murua; Xabier Valencia; Eduardo Carrasco; Gottfried Zimmermann; Jürgen Bund; Bruno Rosa; Jan Alexandersson; Unai Díaz</bibtex:author>
+    <bibtex:title>Universally Accessible Task-Based User Interfaces</bibtex:title>
+    <bibtex:booktitle>First International Workshop on AAL SERVICE PLATFORMS (WASP 2010) A one-day workshop to be held at IEEE Healthcom 2010 Lyon</bibtex:booktitle>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>France, July 2,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="user-centred-tool-su">
+  <bibtex:conference>
+    <bibtex:author>Jochen Frey; Thomas Gard; Jan Alexandersson</bibtex:author>
+    <bibtex:title>User-Centred Tool Support - Developing User Interfaces for Persons with Special Needs</bibtex:title>
+    <bibtex:booktitle>Proceedings of the Workshop on Tool-Support for Mobile and Pervasive Application Development (TSMPAD-2010)</bibtex:booktitle>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>September 7th, Lisboa, Portugal,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="a-new-metric-for-the">
+  <bibtex:conference>
+    <bibtex:author>Stephan Lesch; Thomas Kleinbauer; Jan Alexandersson</bibtex:author>
+    <bibtex:title>A New Metric for the Evaluation of Dialog Act Classification</bibtex:title>
+    <bibtex:booktitle>Proceedings of 9th Workshop on the semantics and pragmatics of dialogue (Dialor)</bibtex:booktitle>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:note>Nancy, June 9-11</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="amigram---a-general-">
+  <bibtex:conference>
+    <bibtex:author>Christoph Lauer; Jochen Frey; Benjamin Lang; Tilman Becker; Thomas Kleinbauer; Jan Alexandersson</bibtex:author>
+    <bibtex:title>AmiGram---a General-Purpose Tool for Multimodal Corpus Annotation</bibtex:title>
+    <bibtex:booktitle>Proceedings of 2nd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms (MLMI05)</bibtex:booktitle>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:note>Edinburgh, July 11-13</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="ontomatters---ontolo">
+  <bibtex:conference>
+    <bibtex:author>Harald Lochert; Jan Alexandersson; Tilman Becker; Thomas Kleinbauer</bibtex:author>
+    <bibtex:title>OntoMatters---Ontology-Based Representation of Multi-modal Multi-party Interaction</bibtex:title>
+    <bibtex:booktitle>Proceedings of 2nd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms (MLMI05)</bibtex:booktitle>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:note>Edinburgh, July 11-13</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="towards-pluggable-us">
+  <bibtex:conference>
+    <bibtex:author>Jochen Frey; Christian Schulz; Robert Nesselrath; Verena Stein; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Towards Pluggable User Interfaces for People with Cognitive Disabilities</bibtex:title>
+    <bibtex:booktitle>Proceedings of the 3rd International Conference on Health Informatics (HEALTHINF 2010)</bibtex:booktitle>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>January,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="-th-international-co">
+  <bibtex:conference>
+    <bibtex:author>Jochen Frey; Robert Nesselrath; Christian Schulz; Jan Alexandersson; SensHome</bibtex:author>
+    <bibtex:title>7th International Conference on Language Resources and Evaluation - LREC 2010</bibtex:title>
+    <bibtex:booktitle>Malta</bibtex:booktitle>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>May 19--21,, Pages XX--YY (Forthcoming), : Towards A Corpus for Everyday Activities in Smart Homes. In Proceedings of &quot;Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&quot;, A WS at</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="on-tv--a-case-study-">
+  <bibtex:conference>
+    <bibtex:author>C. H. Schulz; I. Zinnikus; P. Kapahnke; J. Frey; R. Nesselrath; J. Alexandersson; Universally Accessible Interactive Services</bibtex:author>
+    <bibtex:title>on TV: A Case Study on the Provisioning of Internet Serivces to Elderly People</bibtex:title>
+    <bibtex:booktitle>Ambient Assisted Living</bibtex:booktitle>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>In Reiner Wichert and Birgid Eberhardt (Ed.):4. AAL-Kongress 2011, Berlin, Germany, January 25-26,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="with-and-for-the-vis">
+  <bibtex:conference>
+    <bibtex:author>Verena Stein; Robert Neßelrath; Jan Alexandersson; Johannes Tröger Designing</bibtex:author>
+    <bibtex:title>with and for the visually impaired: vocabulary</bibtex:title>
+    <bibtex:booktitle>spelling and the screen reader Proceedings of the 3rd International Conference on Computer Supported Education (CSEDU-11)</bibtex:booktitle>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Pages 462-467, Noordwijkerhout, Netherlands, SciTePress, May, 6-8,</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="dialogue-acts-in-ver">
+  <bibtex:techreport>
+    <bibtex:author>Jan Alexandersson; Bianka Buschbeck-Wolf; Tsutomu Fujinami; Michael Kipp; Stefan Koch; Elisabeth Maier; Norbert Reithinger; Birte Schmitz; Melanie Siegel</bibtex:author>
+    <bibtex:title>Dialogue Acts in Verbmobil-2 -- Second Edition</bibtex:title>
+    <bibtex:institution>DFKI GmbH</bibtex:institution>
+    <bibtex:year>1998</bibtex:year>
+    <bibtex:note>(gzipped, 254 Kb, 106 pages) Verbmobil-Report Nr.226, Saarbrücken</bibtex:note>
+  </bibtex:techreport>
+</bibtex:entry>
+<bibtex:entry id="smartcase--a-smart-h">
+  <bibtex:conference>
+    <bibtex:author>Jochen Frey; Simon Bergweiler; Jan Alexandersson; Ehsan Gholamsaghaee; Norbert Reithinger; Christoph Stahl</bibtex:author>
+    <bibtex:title>SmartCase: A Smart Home Environment in a Suitcase</bibtex:title>
+    <bibtex:booktitle>7th International Conference on Intelligent Environments (IE)</bibtex:booktitle>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>July 25-28, Nottingham, UK,. (Best Demo Award</bibtex:note>
+  </bibtex:conference>
+</bibtex:entry>
+<bibtex:entry id="knowledge-and-reason">
+  <bibtex:proceedings>
+    <bibtex:author>Jan Alexandersson; Lars Ahrenberg; Kristiina Jokinen; Arne Jönsson</bibtex:author>
+    <bibtex:title>Knowledge and Reasoning in Practical Dialogue Systems Systems</bibtex:title>
+    <bibtex:year>1999</bibtex:year>
+    <bibtex:note>Proceedings of the International Joint conference of Artificial Intelligence (IJCAI-99) Workshop, Stockholm, Sweden</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="special-issue-on-kno">
+  <bibtex:proceedings>
+    <bibtex:author>Jan Alexandersson; Lars Ahrenberg; Kristiina Jokinen; Arne Jönsson</bibtex:author>
+    <bibtex:title>Special issue on Knowledge and Reasoning in Practical Dialogue Systems Systems</bibtex:title>
+    <bibtex:year>1999</bibtex:year>
+    <bibtex:note>The Electronic Transactions on Artificial Intelligence (ETAI), section D</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="knowledge-and-reason">
+  <bibtex:proceedings>
+    <bibtex:author>Arne Jönsson; Jan Alexandersson; Kristiina Jokinen; Tilman Becker; Magnus Merkel</bibtex:author>
+    <bibtex:title>Knowledge and Reasoning in Practical Dialogue Systems</bibtex:title>
+    <bibtex:year>2003</bibtex:year>
+    <bibtex:note>Proceedings of the International Joint Conference of Artificial Intelligence (IJCAI-03) Workshop, Acapulco, Mexico</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="knowledge-and-reason">
+  <bibtex:proceedings>
+    <bibtex:author>Ingrid Zukerman; Arne Jönsson; Jan Alexandersson</bibtex:author>
+    <bibtex:title>Knowledge and Reasoning in Practical Dialogue Systems</bibtex:title>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:note>Proceedings of the International Joint Conference of Artificial Intelligence (IJCAI-05) Workshop, Edinburgh, Scotland</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="scanalu------proceed">
+  <bibtex:proceedings>
+    <bibtex:author>James Allen; Jan Alexandersson; Jerome Feldman; Robert Porzel</bibtex:author>
+    <bibtex:title>ScaNaLU &apos;06: Proceedings of the Third Workshop on Scalable Natural Language Understanding Publisher</bibtex:title>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>Association for Computational Linguistics, New York, USA</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="proceedings-of-the--">
+  <bibtex:proceedings>
+    <bibtex:author>Jan Alexandersson; Alistair Knott</bibtex:author>
+    <bibtex:title>Proceedings of the 7th SIGdial Workshop on Discourse and Dialogue</bibtex:title>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>(eds):held in conjunction with the 21st Internation Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics - COLING/ACL</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="knowledge-and-reason">
+  <bibtex:proceedings>
+    <bibtex:author>David Traum; Jan Alexandersson; Arne Jönsson; Ingrid Zukerman</bibtex:author>
+    <bibtex:title>Knowledge and Reasoning in Practical Dialogue Systems</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Proceedings of the International Joint Conference of Artificial Intelligence (IJCAI-07) Workshop, Hyderabad, India</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="knowledge-and-reason">
+  <bibtex:proceedings>
+    <bibtex:author>Arne Jönsson; Jan Alexandersson; David Traum; Ingrid Zukerman</bibtex:author>
+    <bibtex:title>Knowledge and Reasoning in Practical Dialogue Systems</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Proceedings of the International Joint Conference of Artificial Intelligence (IJCAI-09) Workshop, Pasadena, CA</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="knowledge-and-reason">
+  <bibtex:proceedings>
+    <bibtex:author>Jan Alexandersson; Arne Jönsson; David Traum; Ingrid Zukerman</bibtex:author>
+    <bibtex:title>Knowledge and Reasoning in Practical Dialogue Systems</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Proceedings of the International Joint Conference of Artificial Intelligence (IJCAI-11) Workshop, Barcelona, Spain</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+<bibtex:entry id="third-workshop-on-sp">
+  <bibtex:proceedings>
+    <bibtex:author>Jan Alexandersson; Peter Ljunglöf; Kathy McCoy; Brian Roark; Annalu Waller</bibtex:author>
+    <bibtex:title>Third Workshop on Speech and Language Processing for Assistive Technologies (SLPAT)</bibtex:title>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:note>Association for Computational Lin- guistics (ACL), Montreal, Canada</bibtex:note>
+  </bibtex:proceedings>
+</bibtex:entry>
+</bibtex:file>

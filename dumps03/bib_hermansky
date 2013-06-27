@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibteXML.dtd">
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="map-estimation-of-wh">
+  <bibtex:misc>
+    <bibtex:author>Keith Kintzley; Aren Jansen; Hynek Hermansky</bibtex:author>
+    <bibtex:title>MAP Estimation of Whole-Word Acoustic Models with Dictionary Priors</bibtex:title>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:note>Proc. of INTERSPEECH – 2012</bibtex:note>
+    <bibtex:abstract>The intrinsic advantages of whole-word acoustic modeling are offset by the problem of data sparsity. To address this, we present several parametric approaches to estimating intra-word phonetic timing models under the assumption that relative timing is independent of word duration. We show evidence that the timing of phonetic events is well described by the Gaussian distribution. We explore the construction of models in the absence of keyword examples (dictionary-based), when keyword examples are abundant (Gaussian mixture models), and also present a Bayesian approach which unifies the two. Applying these techniques in a point process model keyword spotting framework, we demonstrate a 55\% relative improvement in performance for models constructed from few examples.</bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="inverting-the-point-">
+  <bibtex:misc>
+    <bibtex:author>Aren Jansen; Kenneth Church; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Inverting the Point Process Model for Fast Phonetic Keyword Search</bibtex:title>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:note>Proc. of INTERSPEECH – 2012</bibtex:note>
+    <bibtex:abstract>Normally, we represent speech as a long sequence of frames and model the keyword with a relatively small set of parameters, commonly with a hidden Markov model (HMM). However, since the input speech is much longer than the keyword, suppose instead that we represent the speech as a relatively sparse set of impulses (roughly one per phoneme) and model the keyword as a filter-bank where each filter&apos;s impulse response relates to the likelihood of a phone at a given position within a word. Evaluating keyword detections can then be seen as a convolution of an impulse train with an array of filters. This view enables huge speedups; runtime no longer depends on the frame rate and is instead linear in the number of events (impulses). We apply this intuition to redesign the runtime engine behind the point process model for keyword spotting. We demonstrate impressive real-time speedups (500,000x faster than real-time) with minimal loss in search accuracy.</bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="inverting-the-point-">
+  <bibtex:misc>
+    <bibtex:author>Keith Kintzley; Aren Jansen; Kenneth Church; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Inverting the Point Process Model for Fast Phonetic Keyword Search</bibtex:title>
+    <bibtex:year>2012</bibtex:year>
+    <bibtex:note>Proc. of INTERSPEECH – 2012</bibtex:note>
+    <bibtex:abstract>Normally, we represent speech as a long sequence of frames and model the keyword with a relatively small set of parameters, commonly with a hidden Markov model (HMM). However, since the input speech is much longer than the keyword, suppose instead that we represent the speech as a relatively sparse set of impulses (roughly one per phoneme) and model the keyword as a filter-bank where each filter&apos;s impulse response relates to the likelihood of a phone at a given position within a word. Evaluating keyword detections can then be seen as a convolution of an impulse train with an array of filters. This view enables huge speedups; runtime no longer depends on the frame rate and is instead linear in the number of events (impulses). We apply this intuition to redesign the runtime engine behind the point process model for keyword spotting. We demonstrate impressive real-time speedups (500,000x faster than real-time) with minimal loss in search accuracy.</bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="event-selection-from">
+  <bibtex:misc>
+    <bibtex:author>Keith Kintzley; Aren Jansen; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Event Selection from Phone Posteriorgrams Using Matched Filters</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Proc. of INTERSPEECH – 2011</bibtex:note>
+    <bibtex:abstract>In this paper we address the issue of how to select a minimal set of phonetic events from a phone posteriorgram while minimizing the loss of information. We derive phone posteriorgrams from two sources, Gaussian mixture models and sparse multilayer perceptrons, and apply phone-specific matched filters to the posteriorgrams to yield a smaller set of phonetic events. We introduce a mutual information based performance measure to compare phonetic event selection techniques and demonstrate that events extracted using matched filters can reduce input data while significantly improving performance of an event-based keyword spotting system</bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="data-driven-and-feed">
+  <bibtex:misc>
+    <bibtex:author>Sridhar Krishna Nemala; Nima Mesgarani; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Data-driven and feedback based spectro-temporal features for speech recognition</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="mixture-of-auto-asso">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Mixture of Auto-Associative Neural Networks for Speaker Verification</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Interspeech – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="adaptive-stream-fusi">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Adaptive Stream Fusion in Multistream Recognition of Speech</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Interspeech – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="rapid-evaluation-of-">
+  <bibtex:misc>
+    <bibtex:author>Michael A. Carlin; Samuel Thomas; Aren Jansen; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Rapid Evaluation of Speech Representations for Spoken Term Discovery</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Interspeech – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="mlp-based-phoneme-de">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Patrick Nguyen, Geoffrey Zweig; Hynek Hermansky</bibtex:author>
+    <bibtex:title>MLP based Phoneme Detectors for Automatic Speech Recognition</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>ICASSP – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="toward-optimizing-st">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Toward Optimizing Stream Fusion in Multistream Recognition of Speech</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Journal of Acoustical Society of America - Express Letters – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="analyzing-mlp-based-">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; Herve Bourlard</bibtex:author>
+    <bibtex:title>Analyzing MLP Based Hierarchical Phoneme Posterior Probability Estimator</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="multilayer-perceptro">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Multilayer Perceptron with Sparse Hidden Outputs for Phoneme Recognition</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010 – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="sparse-multilayer-pe">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Sparse Multilayer Perceptron for Phoneme Recognition</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>IEEE Transactions on Audio, Speech, and Language Processing – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="data-driven-and-feed">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Sridhar Krishna Nemala; Nima Mesgarani; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Data-driven and feedback based spectro-temporal features for speech recognition</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>IEEE Signal Processing Letters – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="analyzing-mlp-based-">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Mathew Magimai-Doss; Hynek Hermansky; Herve Bourlard</bibtex:author>
+    <bibtex:title>Analyzing MLP Based Hierarchical Phoneme Posterior Probability Estimator</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>IEEE Transactions on Audio, Speech, and Language Processing – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="mixture-of-auto-asso">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Mixture of Auto-Associative Neural Networks for Speaker Verification</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Interspeech 2011 – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="speech-recognition-w">
+  <bibtex:misc>
+    <bibtex:author>Geoffrey Zweig, Patrick Nguyen, Dirk Compernolle, Kris Demuynck, Les Atlas, Pascal Clark, Gregory Sell, Meihong Wang, Fei Sha; Hynek Hermansky; Damianos Karakos; Aren Jansen; Samuel Thomas; S. G.S.V.S., Samuel Bowman Justine Kao</bibtex:author>
+    <bibtex:title>Speech Recognition with Segmental Conditional Random Fields: A Summary of the JHU CLSP 2010 Summer Workshop</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Proceedings of the 2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP-2011) – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="modulation-spectrum-">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Modulation spectrum analysis for recognition of reverberant speech</bibtex:title>
+    <bibtex:year>2011</bibtex:year>
+    <bibtex:note>Proc. Interspeech 2011 – 2011</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="cross-lingual-and-mu">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Cross-lingual and Multi-stream Posterior Features for Low-resource LVCSR Systems</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Interspeech – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="a-multistream-multir">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>A Multistream Multiresolution Framework for Phoneme Recognition</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Interspeech – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="a-phoneme-recognitio">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Kailash Patil; Sriram Ganapathy; Nima Mesgarani; Hynek Hermansky</bibtex:author>
+    <bibtex:title>A Phoneme Recognition Framework based on Auditory Spectro-Temporal Receptive Fields</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Interspeech – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="robust-spectro-tempo">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Robust Spectro-Temporal Features Based On Autoregressive Models Of Hilbert Envelopes</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>ICASSP – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="comparison-of-modula">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Comparison Of Modulation Features For Phoneme Recognition</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>ICASSP – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="temporal-envelope-co">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Temporal Envelope Compensation for Robust Phoneme Recognition using Modulation Spectrum</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Journal of Acoustical Society of America – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="sparse-coding-for-sp">
+  <bibtex:misc>
+    <bibtex:author>Sridhar Krishna Nemala; Mounya Elhilali; Trac Tran; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Sparse Coding For Speech Recognition</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="sparse-auto-associat">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Sparse Auto-associative Neural Networks: Theory and Application to Speech Recognition</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="sparse-coding-for-sp">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Sridhar Krishna Nemala; Mounya Elhilali; Trac Tran; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Sparse Coding For Speech Recognition</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="sparse-auto-associat">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Sparse Auto-associative Neural Networks: Theory and Application to Speech Recognition</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Interspeech 2010 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="fusion-and-inference">
+  <bibtex:misc>
+    <bibtex:author>Carey Priebe; Hynek Hermansky; David Marchette, Elizabeth Hohman; Glen Coppersmith</bibtex:author>
+    <bibtex:title>Fusion and inference from multiple data sources</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Proceedings ISI&apos;10 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="cross-lingual-and-mu">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Cross-Lingual and Multi-Stream Posterior Features for Low Resource LVCSR Systems</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Proc. INTERSPEECH 2010 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="towards-spoken-term-">
+  <bibtex:misc>
+    <bibtex:author>Aren Jansen; Kenneth Church; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Towards Spoken Term Discovery at Scale with Zero Resources</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Proc. INTERSPEECH 2010 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="history-of-modulatio">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>History Of Modulation Spectrum</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>In ASR, Invited Paper, Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-use-of-spike-bas">
+  <bibtex:misc>
+    <bibtex:author>Weimin Liu; Nima Mesgarani, John Harris; Hynek Hermansky</bibtex:author>
+    <bibtex:title>The Use of Spike-Based Representations for Hardware Audition System</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>IEEE International Symposium on Circuits and Systems 2010 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="fully-integrated----">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Fully Integrated 500uW Speech Detection Wake-Up Circuit</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>IEEE International Symposium on Circuits and Systems 2010 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="recovery-of-rare-wor">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Recovery of rare words in lecture speech</bibtex:title>
+    <bibtex:year>2010</bibtex:year>
+    <bibtex:note>Proceedings Text, Speech and Dialogue 2010 – 2010</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="applications-of-sign">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Samuel Thomas; Petr Motlicek; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Applications Of Signal Analysis Using Autoregressive Models For Amplitude Modulation</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>WASPAA – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="temporal-envelope-su">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Temporal Envelope Subtraction for Robust Speech Recognition Using Modulation Spectr</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>ASRU – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="static-and-dynamic-m">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Static and Dynamic Modulation Spectrum for Speech Recognition</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Interspeech – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="phoneme-recognition-">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Phoneme Recognition Using Spectral Envelope And Modulation Frequency Features</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>ICASSP – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="tandem-representatio">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Tandem Representations of Spectral Envelope and Modulation Frequency Features for ASR</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Interspeech – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="volterra-series-for-">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; Mathew Magimai-Doss</bibtex:author>
+    <bibtex:title>Volterra Series for Analyzing MLP based Phoneme Posterior Probability Estimator</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2009 – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="volterra-series-for-">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Hynek Hermansky; Mathew Magimai-Doss</bibtex:author>
+    <bibtex:title>Volterra Series for Analyzing MLP based Phoneme Posterior Probability Estimator</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2009 – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="unsupervised-syntax-">
+  <bibtex:misc>
+    <bibtex:author>Xuchen Yao; Hynek Hermansky; Sergio Duarte Çağrı Çöltekin</bibtex:author>
+    <bibtex:title>Unsupervised Syntax Learning with Categorial Grammars using Inference Rules</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Proceedings of The 14th Student Session of the European Summer School for Logic, Language, and Information – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="a-categorial-grammar">
+  <bibtex:misc>
+    <bibtex:author>Xuchen Yao; Hynek Hermansky</bibtex:author>
+    <bibtex:title>A Categorial Grammar Analysis of Some Typical Chinese Language Phenomena</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Proc. of 10th Chinese National Conference on Computational Linguistics – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="an-inference-rules-b">
+  <bibtex:misc>
+    <bibtex:author>Xuchen Yao; Hynek Hermansky; Sergio Duarte Çağrı Çöltekin</bibtex:author>
+    <bibtex:title>An Inference-rules based Categorial Grammar Learner for Simulating Language Acquisition</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Proc. of The 18th Annual Belgian-Dutch Conference on Machine Learning – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="arithmetic-coding-of">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Arithmetic Coding of Sub-Band Residuals in FDLP Speech/Audio Codec</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>10th Annual Conference of the International Speech Communication Association, ISCA – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="error-resilient-spee">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Petr Motlicek; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Error Resilient Speech Coding Using Sub-band Hilbert Envelopes</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>12th International Conference on Text, Speech and Dialogue, TSD 2009 – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="mdct-for-encoding-re">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Petr Motlicek; Hynek Hermansky</bibtex:author>
+    <bibtex:title>MDCT for Encoding Residual Signals in Frequency Domain Linear Prediction</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Audio Engineering Society (AES), 127th Convention, Audio Engineering Society (AES), Audio Engineering Society – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="discriminant-spectro">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Sridhar K. Nemala; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Discriminant Spectrotemporal Features for Phoneme Recognition</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Proc. Interspeech 2009 – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="posterior-based-out-">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Posterior-based Out-of-Vocabulary Word Detection in Telephone Speech</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Proc. Interspeech 2009 – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="volterra-series-for-">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; Mathew Magimai</bibtex:author>
+    <bibtex:title>Volterra Series For Analyzing MLP Based Phoneme Posterior Estimator</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Proceedings of ICASSP 2009 – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="reconciliation-of-hu">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Reconciliation of human and machine speech recognition performance</bibtex:title>
+    <bibtex:year>2009</bibtex:year>
+    <bibtex:note>Proceedings of ICASSP 2009 – 2009</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="combination-of-stron">
+  <bibtex:misc>
+    <bibtex:author>Lukas Burget, Petr Schwarz, Pavel Matejka, Mirko Hanneman; Ariya Rastrow; Chris White; Sanjeev Khudanpur; Hynek Hermansky; Jan Cernocky</bibtex:author>
+    <bibtex:title>Combination of Strongly and Weakly Constrained Recognizers for Reliable Detection of OOVs</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of the IEEE International Conference on Acoustics Speech and Signal Processing – 2008</bibtex:note>
+    <bibtex:abstract>This paper addresses the detection of OOV segments in the output of a large vocabulary continuous speech recognition (LVCSR) system. First, standard confidence measures from frame-based word- and phone-posteriors are investigated. Substantial improvement is obtained when posteriors from two systems - strongly constrained (LVCSR) and weakly constrained (phone posterior estimator) are combined. We show that this approach is also suitable for detection of general recognition errors. All results are presented on WSJ task with reduced recognition vocabulary.</bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="spectro-temporal-fea">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Spectro-Temporal Features for Automatic Speech Recognition using Linear Prediction in Spectral Domain</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>EUSIPCO – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="front-end-for-far-fi">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Front-end for Far-Field Speech Recognition based on Frequency Domain Linear Prediction</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Interspeech – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="hilbert-envelope-bas">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Hilbert Envelope Based Spectro-Temporal Features for Phoneme Recognition in Telephone Speech</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Interspeech – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="hilbert-envelope-bas">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Hilbert Envelope Based Features for Far- Field Speech Recognition</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>MLMI – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="modulation-frequency">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Modulation frequency features for phoneme recognition in noisy speech</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Journal of Acoustical Society of America - Express Letters – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="recognition-of-rever">
+  <bibtex:misc>
+    <bibtex:author>Samuel Thomas; Sriram Ganapathy; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Recognition Of Reverberant Speech Using Frequency Domain Linear Prediction</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>IEEE Signal Processing Letters – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="introducing-temporal">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Introducing Temporal Asymmetries in Feature Extraction for Automatic Speech Recognition</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Interspeech 2008 – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="emulating-temporal-r">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Emulating Temporal Receptive Fields of Auditory Mid-brain Neurons for Automatic Speech Recognition</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>EUSIPCO 2008 – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="reverse-correlation-">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Reverse Correlation for Analyzing MLP Posterior Features in ASR</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>11th International Conference on Text, Speech and Dialogue(TSD 2008) – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="introducing-temporal">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Introducing Temporal Asymmetries in Feature Extraction for Automatic Speech Recognition</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Interspeech 2008 – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="emulating-temporal-r">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Emulating Temporal Receptive Fields of Auditory Mid-brain Neurons for Automatic Speech Recognition</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>EUSIPCO 2008 – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="reverse-correlation-">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Reverse Correlation for Analyzing MLP Posterior Features in ASR</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>11th International Conference on Text, Speech and Dialogue(TSD 2008) – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="autoregressive-model">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Petr Motlicek; Hynek Hermansky; Harinath Garudadri</bibtex:author>
+    <bibtex:title>Autoregressive Modelling of Hilbert Envelopes for Wide-band Audio Coding</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>AES 124th Convention – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="beyond-novelty-detec">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; Alon Zweig; Xiaoqiang Luo; Holly Jimison, Frank Ohl Misha Pavel</bibtex:author>
+    <bibtex:title>Beyond Novelty Detection: Incongruent Events, when General and Specific Classifiers Disagree</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings Neural Information Processing Conference – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="combining-evidence-f">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Combining Evidence from a Generative and a Discriminative Model in Phoneme Recognition</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of Interspeech 2008 – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="on-the-combination-o">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>On the Combination of Auditory and Modulation Frequency Channels for ASR applications</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of Interspeech, 2008 – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="spectral-noise-shapi">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Petr Motlicek; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Spectral Noise Shaping: Improvements in Speech/Audio Codec Based on Linear Prediction in Spectral Domain</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of Interspeech, 2008 – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="fast-approximate-spo">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Fast Approximate Spoken Term Detection from Sequence of Phonemes</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>The 31st Annual International ACM SIGIR Conference – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="front-end-for-far-fi">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Samuel Thomas; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Front-end for Far-Field Speech Recognition based on Frequency Domain Linear Prediction</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of Interspeech, 2008 – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="emulating-temporal-r">
+  <bibtex:misc>
+    <bibtex:author>Sri Garimella; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Emulating Temporal Receptive Fields of Higher Level Auditory Neurons for ASR</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>11th International Conference on Text, Speech and Dialogue – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="exploiting-contextua">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Exploiting contextual information for speech/non-speech detection</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Text, Speech and Dialogue, 2008 – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="autoregressive-model">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Petr Motlicek; Hynek Hermansky; Harinath Garudadri</bibtex:author>
+    <bibtex:title>Autoregressive Modeling of Hilbert Envelopes for Wide-Band Audio Coding</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>124th Convention of Audioengineering Society – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="combination-of-stron">
+  <bibtex:misc>
+    <bibtex:author>Ariya Rastrow; Christopher White; Sanjeev Khudanpur; Hynek Hermansky; Jan Cernocky</bibtex:author>
+    <bibtex:title>Combination Of Strongly And Weakly Constrained Recognizers For Reliable Detection Of Out-Of-Vocabulary Words (OOVs)</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="confidence-estimatio">
+  <bibtex:misc>
+    <bibtex:author>Christopher White; Geoffrey Zweig, Lukas Burget, Petr Schwarz; Hynek Hermansky</bibtex:author>
+    <bibtex:title>Confidence Estimation, Oov Detection And Language Id Using Phone-To-Word Transduction And Phone-Level Alignments</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="temporal-masking-for">
+  <bibtex:misc>
+    <bibtex:author>Sriram Ganapathy; Petr Motlicek; Hynek Hermansky; Harinath Garudadri</bibtex:author>
+    <bibtex:title>Temporal Masking For Bit-Rate Reduction In Audio Codec Based On Frequency Domain Linear Prediction</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="exploiting-contextua">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; Mathew Magimai-Doss</bibtex:author>
+    <bibtex:title>Exploiting Contextual Information For Improved Phoneme Recognition</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="hierarchical-and-par">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Hierarchical and Parallel Processing of Modulation Spectrum for ASR applications</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech – 2008</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="multi-stream-feature">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Multi-stream Features Combination based on Dempster-Shafer Rule for LVCSR System</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Proceedings of the International Conference on Spoken Language Processing – 2007</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="combination-of-acous">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Combination of Acoustic Classifiers based on Dempster-Shafer Theory of evidence</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) – 2007</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="hierarchical-neural-">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; Ralf Schluter</bibtex:author>
+    <bibtex:title>Hierarchical neural networks feature extraction for LVCSR system</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Proceedings of Interspeech-2007 – 2007</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="wide-band-perceptual">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Wide-Band Perceptual Audio Coding based on Frequency-Domain Linear Prediction</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) – 2007</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="mrasta-and-plp-in-au">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>MRASTA and PLP in Automatic Speech Recognition</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Proceedings of the International Conference on Spoken Language Processing – 2007</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="exploiting-phoneme-s">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Exploiting Phoneme Similarities in Hybrid HMM-ANN Keyword Spotting</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Proceedings of the International Conference on Spoken Language Processing – 2007</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="detection-of-out-of-">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Detection of Out-of-Vocabulary Words in Posterior Based ASR</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Proceedings of the International Conference on Spoken Language Processing – 2007</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="discriminant-linear-">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Discriminant Linear Processing of Time-Frequency Plane</bibtex:title>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>Proceedings of the International Conference on Spoken Language Processing – 2006</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="towards-asr-based-on">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Towards ASR Based on Hierarchical Posterior-Based Keyword Recognition</bibtex:title>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing – 2006</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="speech-coding-based-">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; H. Garudadri N. Srinivasamurthy</bibtex:author>
+    <bibtex:title>Speech Coding based on Spectral Dynamics</bibtex:title>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>Proceedings of the International Conference on Text, Speech and Dialogue – 2006</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="the-role-of-speech-i">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; P. Fousek M. Lehtonen</bibtex:author>
+    <bibtex:title>The Role of Speech in Multimodal Human-Computer Interaction (Towards Reliable Rejection of Non-Keyword Input)</bibtex:title>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:note>Proceedings of the International Conference on Text, Speech and Dialogue – 2005</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="multi-resolution-ras">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; P. Fousek</bibtex:author>
+    <bibtex:title>Multi-resolution RASTA filtering for TANDEM-based ASR</bibtex:title>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:note>Proceedings of the European Conference on Speech Communication and Technology – 2005</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="lp-trap--linear-pred">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; Andreas G Andreou</bibtex:author>
+    <bibtex:title>LP-TRAP: Linear Predictive Temporal Patterns,</bibtex:title>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>Proc. ICSLP – 2004</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="plp----autoregressiv">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; D. Ellis</bibtex:author>
+    <bibtex:title>PLP^2: Autoregressive modeling of auditory-like 2-D spectro-temporal patterns</bibtex:title>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>Proceedings ISCA Tutorial and Research Workshop (ITRW) on Statistical and Perceptual Audio Processing (SAPA) – 2004</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="new-nonsense-syllabl">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>New Nonsense Syllables Database – Analyses and Preliminary ASR Experiments</bibtex:title>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>Proceedings of the International Conference on Spoken Language Processing – 2004</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="on-use-of-task-indep">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; S. Sivadas</bibtex:author>
+    <bibtex:title>On use of task-independent data in TANDEM feature extraction</bibtex:title>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing – 2004</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="phase-autocorrelatio">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Phase AutoCorrelation (PAC) features in Entropy based Multi-Stream for Robust Speech Recognition</bibtex:title>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing – 2004</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="spectral-entropy-bas">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Spectral Entropy Based Feature for Robust ASR</bibtex:title>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing – 2004</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="some-emerging-concep">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky; H. Bourland</bibtex:author>
+    <bibtex:title>Some Emerging Concepts in Speech Recognition</bibtex:title>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>Invited Paper in Proceedings of Lectures by Masters in Speech Processing – 2004</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="recognition-of-infor">
+  <bibtex:misc>
+    <bibtex:author>Hynek Hermansky</bibtex:author>
+    <bibtex:title>Recognition of Information-bearing Elements in Speech</bibtex:title>
+    <bibtex:year>2003</bibtex:year>
+    <bibtex:note>Journal of the Acoustical Society of America – 2003</bibtex:note>
+    <bibtex:abstract></bibtex:abstract>
+  </bibtex:misc>
+</bibtex:entry>
+</bibtex:file>

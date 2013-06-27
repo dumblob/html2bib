@@ -1,0 +1,30 @@
+.colorUDC  { color : rgb(206, 0, 124); }
+
+A { 
+color: #0000C0;
+text-decoration: none;
+}
+
+A:visited {
+color: #0000C0;
+}
+
+A:hover { 
+text-decoration: none;
+/* font-weight: bold; */
+color: rgb(206,0,124);
+}
+
+
+BODY  {
+color:black;
+background-color: #FFFFFF; 
+font-family: arial,helvetica,sans-serif;
+}
+
+#banneridioma {
+      text-align: right
+}
+
+
+

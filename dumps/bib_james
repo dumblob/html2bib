@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibteXML.dtd">
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="plow--a-collaborativ">
+  <bibtex:misc>
+    <bibtex:author>Allen; J. F.; N. Chambers; et al.</bibtex:author>
+    <bibtex:title>PLOW: A collaborative task learning agent</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Named Best Paper, National Conference on Artificial Intelligence (AAAI). Vancouver, BC</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="utilizing-natural-la">
+  <bibtex:misc>
+    <bibtex:author>Jung; H.; J. F. Allen; et al.</bibtex:author>
+    <bibtex:title>Utilizing natural language for one-shot task learning.</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Logic and Computation 18(3): 475-493</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="using-semantics-to-i">
+  <bibtex:misc>
+    <bibtex:author>Chambers; N.; J. Allen; et al.</bibtex:author>
+    <bibtex:title>Using Semantics to Identify Web Objects</bibtex:title>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>21st National Conference on Artificial Intelligence (AAAI-06), Boston, MA.[pdf]</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="analyzing-intention-">
+  <bibtex:misc>
+    <bibtex:author>Allen; J. F.; C. R. Perrault</bibtex:author>
+    <bibtex:title>Analyzing Intention in Utterances.</bibtex:title>
+    <bibtex:year>1980</bibtex:year>
+    <bibtex:note>Artificial Intelligence 15(3)</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="a-plan-based-analysi">
+  <bibtex:misc>
+    <bibtex:author>Perrault; C. R.; J. F. Allen</bibtex:author>
+    <bibtex:title>A Plan-based Analysis of Indirect Speech Acts.</bibtex:title>
+    <bibtex:year>1980</bibtex:year>
+    <bibtex:note>Computational Linguistics 6(3): 167-182</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="discourse-processing">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.; D.J. Litman</bibtex:author>
+    <bibtex:title>Discourse Processing and Common sense Plans.</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>in P.R. Cohen, J. Morgan, and M. Pollack, Intentions and Communication, MIT Press, 1990</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="two-constraints-on-s">
+  <bibtex:misc>
+    <bibtex:author>Hinkelman; E.; J.F. Allen</bibtex:author>
+    <bibtex:title>Two Constraints on Speech Act Ambiguity.</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>In Proc., 27th Meeting of the Assoc. for Computational Linguistics, 1989</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="discourse-obligation">
+  <bibtex:misc>
+    <bibtex:author>Traum; D.; Allen; J.F.</bibtex:author>
+    <bibtex:title>Discourse Obligations in Dialogue Processing</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Proc. 32nd Meeting of the Assoc. for Computational Linguistics, 1994</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="speech-repairs--into">
+  <bibtex:misc>
+    <bibtex:author>Peter Heeman; James Allen</bibtex:author>
+    <bibtex:title>Speech Repairs, Intonational Phrases and Discourse Markers: Modeling Speakers&apos; Utterances in Spoken Dialog</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Computational Linguistics, Vol. 25-4, 1999</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="a-robust-system-for-">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.; B. Miller; E. Ringger; T. Sikorski</bibtex:author>
+    <bibtex:title>A Robust System for Natural Spoken Dialogue</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Proc. 34th Meeting of the Assoc. for Computational Linguistics, 1996</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="trips--an-integrated">
+  <bibtex:misc>
+    <bibtex:author>George Ferguson; James F. Allen</bibtex:author>
+    <bibtex:title>TRIPS: An Integrated Intelligent Problem-Solving Assistant</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Proceedings of the Fifteenth National Conference on AI (AAAI-98), Madison, WI, 26--30 July, 1998</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="towards-a-generic-di">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.; Byron; D.; Dzikovska; M.; Ferguson; G.; Galescu; L.; Stent; A.</bibtex:author>
+    <bibtex:title>Towards a Generic Dialogue Shell</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Natural Language Engineering,6(3) 2000. pp1-16</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="--towards-conversati">
+  <bibtex:misc>
+    <bibtex:author>James Allen; Donna Byron; Myroslava Dzikovska; George Ferguson; Lucian Galescu; Amanda Stent</bibtex:author>
+    <bibtex:title>&quot;&quot;Towards Conversational Human-Computer Interaction&quot;</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>AI Magazine, 2001</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="human-machine-collab">
+  <bibtex:misc>
+    <bibtex:author>Allen; J. F.; G. Ferguson</bibtex:author>
+    <bibtex:title>Human-Machine Collaborative Planning</bibtex:title>
+    <bibtex:year>2002</bibtex:year>
+    <bibtex:note>3rd Int&apos;l. NASA Workshop on Planning and Scheduling for Space, Houston, TX</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="--an-architecture-fo">
+  <bibtex:misc>
+    <bibtex:author>James Allen; George Ferguson; Amanda Stent</bibtex:author>
+    <bibtex:title>&quot;&quot;An architecture for more realistic conversational systems&quot;</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>in Proceedings of Intelligent User Interfaces 2001 (IUI-01), 1-8, Santa Fe, NM, January 14-17, 2001</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="--chester--towards-a">
+  <bibtex:misc>
+    <bibtex:author>Allen; J. F.; N. Blaylock; et al.</bibtex:author>
+    <bibtex:title>&quot;&quot;Chester: Towards a personal medical advisor&quot;</bibtex:title>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>Biomedical informatics 39(5): 500-513</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="plow--a-collaborativ">
+  <bibtex:misc>
+    <bibtex:author>Allen; J. F.; N. Chambers; et al.</bibtex:author>
+    <bibtex:title>PLOW: A collaborative task learning agent</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Named Best Paper, National Conference on Artificial Intelligence (AAAI). Vancouver, BC</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="natural-language-und">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.</bibtex:author>
+    <bibtex:title>Natural Language Understanding</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Benjamin Cummings, 1987, Second Edition, 1994</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="natural-language--kn">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.</bibtex:author>
+    <bibtex:title>Natural Language, Knowledge Representation and Logical Form.</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>In M. Bates, R. Weischedel (eds.), Challenges in Natural Language Processing, Cambridge University Press, 1993</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="skeletons-in-the-par">
+  <bibtex:misc>
+    <bibtex:author>Swift; M. D.; J. F. Allen; et al.</bibtex:author>
+    <bibtex:title>Skeletons in the parser: Using a shallow parser to improve deep parsing</bibtex:title>
+    <bibtex:year>2004</bibtex:year>
+    <bibtex:note>COLING &apos;04, Geneva, Switzerland</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="generic-parsing-for-">
+  <bibtex:misc>
+    <bibtex:author>Dzikovska; M.; M. Swift; et al.</bibtex:author>
+    <bibtex:title>Generic parsing for multi-domain semantic interpretation</bibtex:title>
+    <bibtex:year>2005</bibtex:year>
+    <bibtex:note>International Workshop on Parsing Technologies (Iwpt05), Vancouver BC</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="deep-linguistic-proc">
+  <bibtex:misc>
+    <bibtex:author>Allen; J. F.; M. Dzikovska; et al.</bibtex:author>
+    <bibtex:title>Deep linguistic processing for spoken dialogue systems</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Workshop on Deep Linguistic Processing, Association for Computational Linguistics. Prague</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="linking-semantic-and">
+  <bibtex:misc>
+    <bibtex:author>Dzikovska; M.; J. F. Allen; et al.</bibtex:author>
+    <bibtex:title>Linking Semantic and Knowledge Representation in a Multi-Domain Dialogue System.</bibtex:title>
+    <bibtex:year>2007</bibtex:year>
+    <bibtex:note>Logic and Computation 18(3): 405-430</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="towards-a-universal-">
+  <bibtex:misc>
+    <bibtex:author>Manshadi; M. H.; J. F. Allen; et al.</bibtex:author>
+    <bibtex:title>Towards a Universal Underspecified Semantic Representation.</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>13th Conf. on Formal Grammar. Hamburg, Germany</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="deep-semantic-analys">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.; M. Swift; et al.</bibtex:author>
+    <bibtex:title>Deep Semantic Analysis of Text</bibtex:title>
+    <bibtex:year>2008</bibtex:year>
+    <bibtex:note>Symposium on Semantics in Systems for Text Processing (STEP). Venice, Italy</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="maintaining-knowledg">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.</bibtex:author>
+    <bibtex:title>Maintaining Knowledge about Temporal Intervals.</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Communications of the ACM 26, 11, 832-843, November 1983</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="a-general-model-of-a">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.</bibtex:author>
+    <bibtex:title>A General Model of Action and Time.</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Artificial Intelligence 23, 2, July 1984</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="moments-and-points-i">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.; P.J. Hayes</bibtex:author>
+    <bibtex:title>Moments and Points in an Interval-Based Temporal Logic.</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Computational Intelligence, January 1990</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="time-and-time-again-">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.</bibtex:author>
+    <bibtex:title>Time and time again: The many ways to represent time</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Int&apos;l. Jr. of Intelligent Systems 6, 4, 341-356, July 1991. ps</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="in-interval-temporal">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.; Ferguson; G. Actions; Events</bibtex:author>
+    <bibtex:title>in Interval Temporal Logic</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>J. Logic and Computation 4, 5, 1994</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="generalized-plan-rec">
+  <bibtex:misc>
+    <bibtex:author>Kautz; H.; Allen; J.F.</bibtex:author>
+    <bibtex:title>Generalized Plan Recognition</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>In Proc., Proc., AAAI Nat&apos;l. Conf. on Artificial Intelligence, Philadelphia, PA, 1986</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="planning-as-temporal">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F.</bibtex:author>
+    <bibtex:title>Planning as Temporal Reasoning</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>In Proc., 2nd Principles of Knowledge Representation and Reasoning, Morgan Kaufmann, 1991</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="planning-using-a-tem">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.; J. A. Koomen</bibtex:author>
+    <bibtex:title>Planning using a Temporal World Model</bibtex:title>
+    <bibtex:year>1983</bibtex:year>
+    <bibtex:note>8th Int&apos;l. Joint Conference on Artificial Intelligence, Karlsruhe, Germany</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="reasoning-about-plan">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.F. et al.</bibtex:author>
+    <bibtex:title>Reasoning About Plans</bibtex:title>
+    <bibtex:year></bibtex:year>
+    <bibtex:note>Morgan Kaufmann, 1991</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="a-problem-solving-mo">
+  <bibtex:misc>
+    <bibtex:author>Allen; J.; N. Blaylock; et al.</bibtex:author>
+    <bibtex:title>A Problem Solving Model for Collaborative Agents</bibtex:title>
+    <bibtex:year>2002</bibtex:year>
+    <bibtex:note>1st Int&apos;l. Joint Conf. on Autonomous Agents and Multi-Agent Systems (AAMAS-02), Bologna, Italy, ACM Press.[PDF]</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+<bibtex:entry id="fast-hierarchical-go">
+  <bibtex:misc>
+    <bibtex:author>Blaylock; N.; J. F. Allen</bibtex:author>
+    <bibtex:title>Fast hierarchical goal schema recognition</bibtex:title>
+    <bibtex:year>2006</bibtex:year>
+    <bibtex:note>21st National Conference on Artificial Intelligence (AAAI-06), Boston.[pdf]</bibtex:note>
+  </bibtex:misc>
+</bibtex:entry>
+</bibtex:file>

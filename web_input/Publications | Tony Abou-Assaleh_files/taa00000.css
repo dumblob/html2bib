@@ -1,0 +1,140 @@
+/*
+	CSS files kept in the 'schemes' directory can be used to
+	costumize your K2 installation without having to mess
+	with the core K2 files. This in turn makes it easier to
+	upgrade to new K2 version as well as debug any problems
+	that might occur.
+
+	You select schemes from the K2 Options page in the
+	'Presentation' section of your WordPress administration.
+	
+	Author Name	: Tony Abou-Assaleh
+	Author Site	: http://tony.abou-assaleh.net
+	Style Name	: K2-TAA (Full Width)
+	Style URI	: http://tony.abou-assaleh.net
+	Version		: 1.0
+	Comments	: Last updated: 2008-02-23
+*/
+
+body {
+    font-family: Helvetica,Arial,sans-serif;
+    }
+
+
+#page {
+	/* The entire design is contained within the 'page' id */
+	}
+
+.columns-two #page	{
+	width: 95%;
+	}
+	
+#header {
+	/* Contains the H1 and menu */
+	height:	auto;
+	margin:	auto;
+	text-align: center;
+	background: white none repeat scroll 0%;
+	border-bottom: 1px;
+	border-bottom-color: blue;
+	}
+
+#header .description {
+	font-size: 2em;
+	padding-bottom: 15px;
+	color: #444444!important;
+	}
+
+h1, h1 a, h1 a:hover, h1 a:visited, h1 a:active, #header  {
+	color: #444444!important;
+	}
+
+#header h1 {
+	padding: 15px 15px 0px 15px;
+	}
+
+#header  ul	{
+	font-size: 1.2em;
+	width: auto;
+	margin: 0 20px;
+	left: 0;
+	}
+
+#header .menu a:hover	{
+	background: #555555;
+	}
+
+#header .menu a, #header .menu a:hover, #header .menu a:visited, #header .menu a:active	{
+	#border: 1px solid #FFF;
+	border: thin solid black;
+	color: #2277DD!important;
+	}
+
+#header .current_page_item a, #header .current_page_item a:hover, #header .current_page_item a:visited, #header .current_page_item a:active	{
+	border-bottom: thin solid white;
+	color: #444444!important;
+	background: white;
+	}
+	
+#primary {
+	/* Contains the main column */
+	margin-right: 300px;
+	width: auto;
+	}
+
+#primary h4 {
+	/*font-size: 1.8em;*/
+	}
+
+.hentry {
+	/* Each entry is contained within the 'hentry' class */
+	}
+
+.entry-content {
+	/* The meat and potatoes of every entry */
+	font-size: 1.5em;
+	padding-bottom: 2em;
+	}
+
+.entry-head h2 {
+	font-size: 3em;
+	text-align: left;
+	}
+
+.entry-content h3 {
+	font-size: 1.8em;
+	}
+
+.entry-content h4 {
+	font-size: 1.2em;
+	}
+
+.secondary {
+	/* Contains the sidebar */
+	margin-left: -300px;
+	float: right;
+	font-size: 1.3em;
+	width: 280px;
+	}
+
+
+ul.menu {
+	position: relative;
+	border-bottom: thin solid black;
+	}
+
+pre {
+	background: #CCFFCC none repeat scroll 0 0;
+	font-size: .9em;
+	font-family: Monaco,"Courier New",Courier,monospace;
+	border-width: 1px 0px;
+	border-style: solid;
+	border-color: grey;
+	margin: 1em, 0;
+	overflow: auto;
+	padding: 0.4em;
+}
+
+#s {
+	width: 65%;
+	}
